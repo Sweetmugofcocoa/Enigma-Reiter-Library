@@ -1,0 +1,4660 @@
+:: StoryTitle
+Enigma Reite Library
+
+
+:: StoryData
+{
+  "ifid": "312F0F0D-6F53-4932-97AC-4B25FFB671CD",
+  "format": "Harlowe",
+  "format-version": "2.1.0",
+  "start": "Front Door",
+  "zoom": 0.6
+}
+
+
+:: "...The weather's been nice, don't you think?" {"position":"4697.666666666667,2065.0000000000005","size":"100,100"}
+"...The weather's been nice, don't you think?"
+
+"Probably expecting a dust storm soon," he grumbles, "just you wait."
+
+
+[["What do you do?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Anything else you want?" {"position":"5099.333333333334,1571.666666666667","size":"100,100"}
+"Anything else you want?"
+
+"...Tell you what. I'll buy you one thing. My treat."
+
+
+"Can I have [[coins|time to ask]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Anything you want to share?" {"position":"4329.666666666667,1559","size":"100,100"}
+"Anything you want to share?"
+
+"With a stranger? Nope."
+
+
+[["How about with a friend?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "At least you can still buy something..." {"position":"4113,1552.3333333333333","size":"100,100"}
+"At least you can still buy something..."
+
+He looks at me, "Low on gold, huh? Well, I never say no if some's in need. Ask me if you want something. Just this once, though."
+
+
+"Can I have [[coins|time to ask]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Do you know Dorothy?" {"position":"7883.333333333333,2201.333333333333","size":"100,100"}
+"Not personally. She made herself known earlier though."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you know Garret?" {"position":"8617.666666666668,2210.3333333333335","size":"100,100"}
+"Yes, I know him. ...I still can't tell if he approves."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you know Helen?" {"position":"7892,1578.3333333333335","size":"100,100"}
+"Only from word of mouth. Never met the girl."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you know Henry?" {"position":"8824.333333333334,1497.6666666666667","size":"100,100"}
+"A kind gentlman, I'm sure. But... He seems to put his nose in too many people's business."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you know Isabel?" {"position":"8447,631.3333333333333","size":"100,100"}
+"Oh, yeah. I know her."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you know Jeremy?" {"position":"8266,1641","size":"100,100"}
+"Do I know my brother-in-law. Yes, yes I do."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you know Leonard?" {"position":"7233.333333333334,1531","size":"100,100"}
+"If you mean the man in the corner, no, I can't say I do."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you know Martha?" {"position":"7473.666666666667,666.3333333333331","size":"100,100"}
+"...No, I can't say I do."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you know Nathan?" {"position":"7246.000000000001,2223.3333333333335","size":"100,100"}
+"Go away," Leonard grumbles.
+
+
+[["Okay, sorry."|h table6]]
+[["It's a simple question."]]
+
+
+:: "Do you know Sara?" {"position":"7728.666666666668,775","size":"100,100"}
+"...No, I don't." Dorothy states, "but you'll never guess what I heard yesterday."
+
+
+(link-goto: "I don't need to know.", (history:)'s last)
+[["What?"]]
+
+
+:: "Do you know Susan?" {"position":"7690,2451.3333333333335","size":"100,100"}
+"Since I was three."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you know Timothy?" {"position":"8140.333333333334,739.6666666666665","size":"100,100"}
+"Yeah, I know my uncle."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "Do you like your job?" {"position":"4589.333333333334,2165","size":"100,100"}
+"Do you like your job?"
+
+"It's in open space and is rarely boring. So yeah."
+
+
+"Can I have [[coins|Micheal says no]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Do you own any horses?" {"position":"4844.333333333334,2551.666666666667","size":"100,100"}
+"Do you own any horses?"
+
+"Oh yes. I love my horses. ...Hey, are you going to get something? You look a little short changed."
+
+
+"Can I have [[coins|time to ask]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Doesn't sound like a bad idea." {"position":"4383,1662.3333333333335","size":"100,100"}
+"Doesn't sound like a bad idea."
+
+She smiles, "And that, my friend, is why life keeps getting better."
+
+
+"Can I have [[coins|time to ask]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "He sounds like a jerk." {"position":"4452.666666666667,1059.6666666666667","size":"100,100"}
+"He sounds like a jerk."
+
+"...He didn't seem that way at first. But, yeah. A jerk," she says softly.
+
+
+"Can I have [[coins|Alice says no]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Hi-" {"position":"8921.666666666668,3166","size":"100,100"}
+The man looks up, "Do not talk to me."
+
+"(link-goto: "Okay, sorry", (history:)'s last)," I say.
+
+He hunches over his food, muttering, "Lovey dovey couples..."
+
+
+:: "How about with a friend?" {"position":"4438,1557.3333333333335","size":"100,100"}
+"How about with a friend?"
+
+"Are we friends now?" she asks.
+
+
+[["Doesn't sound like a bad idea."]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "How do you know Dorothy?" {"position":"8423.666666666668,738","size":"100,100"}
+"Because she walked into the room and announced her name and how she loves everyone. ...I try to avoid her."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Garret?" {"position":"8936,1482.6666666666667","size":"100,100"}
+"I've seen him around town. Always willing to lend a helping hand."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Helen?" {"position":"7460.333333333334,776.6666666666665","size":"100,100"}
+"She's got a fire in her, that's for sure. My sister should be proud."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Henry?" {"position":"7860.666666666666,915","size":"100,100"}
+"He's just a person I see at the diner once and a while."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Isabel?" {"position":"8364.333333333334,2210.3333333333335","size":"100,100"}
+"How would I not know Isabel?" Jeremy asks, holding up his left hand. There's a ring there.
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Jeremy?" {"position":"7592.000000000001,1578.3333333333335","size":"100,100"}
+"Business. Strictly busniness."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Leonard?" {"position":"7890,2311.3333333333335","size":"100,100"}
+"I stared at him too long once. He glared until I took interest in my shoes."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Martha?" {"position":"7216.000000000001,2098.3333333333335","size":"100,100"}
+"Go away," Leonard grumbles.
+
+
+[["Okay, sorry."|h table6]]
+[["It's a simple question."]]
+
+
+:: "How do you know Nathan?" {"position":"6933.333333333334,1531","size":"100,100"}
+"From his birth on, I've learned so much about that boy," Garret smiles, "a grandfather always does."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Sara?" {"position":"8284.333333333334,1377.6666666666667","size":"100,100"}
+"She's over for the holidays with her parents and brother. Spoil her silly, I do."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Susan?" {"position":"8123.666666666668,603","size":"100,100"}
+"Through my mom. It makes sense since they're related."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How do you know Timothy?" {"position":"7695,2331.3333333333335","size":"100,100"}
+"Well, I first met him at a fair, but then I met his brother... and the rest is history."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "How was your day, Alice?" {"position":"4456,956.3333333333335","size":"100,100"}
+"How was your day, Alice?"
+
+"Why do you care?" she asks, tracing the rim of her glass.
+
+
+[["What's wrong?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "How was your day, Dan?" {"position":"4849.333333333334,1555.6666666666667","size":"100,100"}
+"How was your day, Dan?"
+
+"Honestly, it's the best day this week. I sold my cattle to the highest bidder, for more than I thought I could."
+
+
+[["What will you do with the money?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "How was your day, Holly?" {"position":"4844.333333333334,2251.666666666667","size":"100,100"}
+"How was your day, Holly?"
+
+"Well, I was a little frazzled due to my speech earlier, but I got through it."
+
+
+[["What was your speech about?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "How was your day, Katrina?" {"position":"4329.666666666667,1450.6666666666667","size":"100,100"}
+"How was your day, Katrina?"
+
+"As long as the dust storm doesn't come, I'll stay golden."
+
+
+[["Anything you want to share?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "How was your day, Lauren?" {"position":"4084.3333333333335,954.6666666666667","size":"100,100"}
+"How was your day, Lauren?"
+
+"Much better now that I'm talking to you," she says.
+
+
+[["What about before?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "How was your day, Micheal?" {"position":"4594.333333333334,2060.0000000000005","size":"100,100"}
+"How was your day, Micheal?"
+
+"Going good," is all he says.
+
+
+[["...The weather's been nice, don't you think?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "How was your day, Sam?" {"position":"4007.666666666667,2015.0000000000005","size":"100,100"}
+"How was your day, Sam?"
+
+"An average day. What about you?"
+
+
+[["I'm a little lost."]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "How was your day, Scott?" {"position":"4009.6666666666665,1435.6666666666667","size":"100,100"}
+"How was your day, Scott?"
+
+"Ugh, you don't want to know..." he groans.
+
+
+[["No, really. What happened?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "How was your day?" {"position":"8228.666666666666,3998.0000000000005","size":"100,100"}
+My date stares at me.
+
+"What?" I ask.
+
+"You were with me all day. You know how my day went," Alex says.
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: "How's your date going?" {"position":"7807.333333333334,4595","size":"100,100"}
+"Oh, it's going amazing," Selina says, "Ned got me a coupon book and I plan to use it as much as I can."
+
+
+(link-goto: "Sounds nice.", (history:)'s last)
+
+
+:: "I don't want to help you." {"position":"5505.333333333334,4024.000000000001","size":"100,100"}
+"It is not wise to refuse someone's simple request. Especially when it is them who determines if you leave," she says.
+
+
+[[Don't care. Still won't help.]]
+[[I'm sorry, I will help.|Sorceress]]
+
+
+:: "I'm a little lost." {"position":"3994.3333333333335,2143.333333333334","size":"100,100"}
+"I'm a little lost."
+
+"Oh? How so?" he asks, setting his drink on the countertop.
+
+
+[["You won't believe me."]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "It might help." {"position":"4346,1064.6666666666667","size":"100,100"}
+"It might help."
+
+"Help me get back at the guy that stood me up? Doubt it."
+
+
+[["He sounds like a jerk."]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "It's a simple question." {"position":"7096.000000000001,2223.3333333333335","size":"100,100"}
+"I said leave me alone," Leonard snarls.
+
+[[Back off.|h table6]]
+[[Insist.]]
+
+
+:: "Like what?" {"position":"3931,2273.333333333334","size":"100,100"}
+"Like what?"
+
+"Don't change the subject," he teases, "How about you get a drink and we can talk more?"
+
+
+"Can I have [[coins|time to ask]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Mind if I sit here, Alice?" {"position":"4457.666666666667,848.0000000000001","size":"100,100"}
+"Mind if I sit here, Alice?"
+
+She looks at me warily, but rolls her eyes.
+...It's not a no.
+
+
+[["How was your day, Alice?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Mind if I sit here, Dan?" {"position":"4743,1549","size":"100,100"}
+"Mind if I sit here, Dan?"
+
+"Does it look like anyone else will occupy them?" Dan jokes.
+
+
+[["How was your day, Dan?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Mind if I sit here, Holly?" {"position":"4844.333333333334,2101.666666666667","size":"100,100"}
+"Mind if I sit here, Holly?"
+
+"Of course! Have a seat, silly," Holly giggles.
+
+[["How was your day, Holly?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Mind if I sit here, Katrina?" {"position":"4431.333333333334,1442.3333333333335","size":"100,100"}
+"Mind if I sit here, Katrina?"
+
+"The more the merrier," she says.
+
+
+[["How was your day, Katrina?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Mind if I sit here, Lauren?" {"position":"4089.3333333333335,849.6666666666667","size":"100,100"}
+"Mind if I sit here, Lauren?"
+
+"Hey stranger," she says, scooting a chair out for me.
+
+
+[["How was your day, Lauren?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Mind if I sit here, Micheal?" {"position":"4591,1951.6666666666667","size":"100,100"}
+"Mind if I sit here, Micheal?"
+
+"...Yeah," he says, motioning to a seat across from him.
+
+
+[["How was your day, Micheal?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Mind if I sit here, Rory?" {"position":"3533.0000000000005,1499.0000000000002","size":"100,100"}
+"Mind if I sit here, Rory?" I ask.
+
+Rory stares at me.
+
+[[Please?]]
+(link-goto: "Sorry.", (history:)'s last)
+
+
+:: "Mind if I sit here, Sam?" {"position":"3892.666666666667,2011.6666666666672","size":"100,100"}
+"Mind if I sit here, Sam?"
+
+"You only have to ask at tables," he grins, "the counter's open to anyone."
+
+
+[["How was your day, Sam?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Mind if I sit here, Scott?" {"position":"4118,1445.6666666666667","size":"100,100"}
+"Mind if I sit here, Scott?"
+
+"Free seating. Only gotta pay for the drinks," Scott says.
+
+
+[["How was your day, Scott?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "No, really. What happened?" {"position":"4011.3333333333335,1545.6666666666667","size":"100,100"}
+"No, really. What happened?"
+
+"I just lost my job. I came here to think, not get sympathy."
+
+
+[["At least you can still buy something..."]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "The food here is delicious, isn't it?" {"position":"8154.000000000002,4610","size":"100,100"}
+"Yes, very good. I think I prefer the steak, but Selina loves the waffles, so..."
+
+
+(link-goto: "I see...", (history:)'s last)
+
+
+:: "What about before?" {"position":"4189.333333333334,953","size":"100,100"}
+"What about before?"
+
+"Not so good. My home had a giant fire. We lost almost everything," she sighs.
+
+
+[["What didn't you lose?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "What did you see, Bryce?" {"position":"1245,2561.4999999999995","size":"100,100"}
+"I was right next to Kate when it happened. I think I saw the killer's face, but..." he looks away, "I can't bear to point them out. It's all too much right now."
+
+
+(link-goto: "I'll make a note of that.", (history:)'s last)
+
+
+:: "What did you see, Emily?" {"position":"1393.3333333333335,2773.1666666666665","size":"100,100"}
+"I didn't see anything. But I heard a scream. It must have been the girl. I ran here while my mom ran away. I didn't see the killer though."
+
+
+(link-goto: "I'll make a note of that.", (history:)'s last)
+
+
+:: "What did you see, Heather?" {"position":"1828.3333333333333,2688.1666666666665","size":"100,100"}
+"I had left the room briefly to put a book away. I heard Kate scream and... I ran back. She was on the ground and there was a person in gloves running out of the room. They headed to the hall."
+
+
+(link-goto: "I'll make a note of that.", (history:)'s last)
+
+
+:: "What didn't you lose?" {"position":"4187.666666666667,1055.6666666666665","size":"100,100"}
+"What didn't you lose?"
+
+"My cat, my wedding ring, and my favorite dress," she says, showing off the dress she's wearing.
+
+
+[["Where's the lucky guy?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "What do you do?" {"position":"4696.000000000001,2166.666666666667","size":"100,100"}
+"What do you do?"
+
+"I'm a cattle hand."
+
+
+[["Do you like your job?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "What do you think about Dorothy?" {"position":"8284.333333333334,1514.3333333333335","size":"100,100"}
+"Very loud. And... yeah."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Garret?" {"position":"7470.333333333334,556.6666666666665","size":"100,100"}
+"I don't really know him that well. I know my sister-in-law speaks highly of him though."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Helen?" {"position":"6986.000000000001,2121.666666666667","size":"100,100"}
+"Go away," Leonard grumbles.
+
+
+[["Okay, sorry."|h table6]]
+[["It's a simple question."]]
+
+
+:: "What do you think about Henry?" {"position":"7701.666666666667,2208","size":"100,100"}
+"I know him from my husband's work. Loves to pry."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Isabel?" {"position":"7844,795","size":"100,100"}
+"She's nice, but I don't think I'd ask her over for tea or anything."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Jeremy?" {"position":"7886.666666666667,2434.666666666667","size":"100,100"}
+"I want to be like him when I grow up. He's my personal superhero."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Leonard?" {"position":"8403.666666666668,854.6666666666665","size":"100,100"}
+"He's... quiet. I don't know where he got that scar, but I'd better not ask."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Martha?" {"position":"7742.000000000001,1578.3333333333335","size":"100,100"}
+"She's... wise. I've heard her talk to a few people about their problems. ...Not that I was eavesdropping."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Nathan?" {"position":"8138.666666666668,879.6666666666665","size":"100,100"}
+"He's such a dork! I mean seriously, does he need to have posters all over his walls? No."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Sara?" {"position":"8467.666666666668,2210.3333333333335","size":"100,100"}
+"She is so much like her mother. But... I think she takes after me more."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Susan?" {"position":"8687.666666666668,1511.0000000000002","size":"100,100"}
+"Nice woman. Very polite."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What do you think about Timothy?" {"position":"7083.333333333334,1531","size":"100,100"}
+"A good man, like his brother. But I'm thankful that he didn't marry my daughter instead."
+
+
+(link-goto: "I should remember this.", (history:)'s last)
+
+
+:: "What language would you love to speak?" {"position":"8232.000000000002,4233.000000000001","size":"100,100"}
+"It's my job to learn languages," Alex says, "you know that."
+
+'I do?' I ask myself.
+
+"I know most languages already. I don't have one off the top of my head I'd want to learn."
+
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: "What was your speech about?" {"position":"4844.333333333334,2401.666666666667","size":"100,100"}
+"What was your speech about?"
+
+"I was speaking on horse cruelty. Some people don't know how to treat their horses," Holly pouts.
+
+
+[["Do you own any horses?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "What will you do with the money?" {"position":"4966.000000000001,1563.3333333333337","size":"100,100"}
+"What will you do with the money?"
+
+"I need to buy equipment for my ranch. But I still have a lot left over."
+
+
+[["Anything else you want?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "What's wrong?" {"position":"4347.666666666667,956.3333333333335","size":"100,100"}
+"What's wrong?"
+
+"Don't want to tell you."
+
+
+[["It might help."]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "What's your favorite animal?" {"position":"8227,4103.000000000001","size":"100,100"}
+Alex smiles, "I love parrots. They are so colorful, and can mimic almost anything."
+
+(if: $inv contains "Admiration")[(set: $inv to $inv + (a: "They're the one!"))]
+(else-if: $inv contains "Admiration")[(set: $inv to $inv + (a: "They're the one!"))]
+(else:)[(set: $inv to $inv + (a: "Admiration"))]
+
+(link-goto: "I smile at my date.", (history:)'s last)
+
+
+
+:: "What's your favorite color?" {"position":"8342,4114.333333333334","size":"100,100"}
+"You know the answer already," Alex says, adding a sing song tone.
+
+But nothing about the exchange was friendly.
+
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+
+:: "What?" {"position":"7730.666666666668,644.9999999999999","size":"100,100"}
+Dorothy starts ranting and rambling, not letting me leave the table.
+
+Timothy leaves as his family all starts to go.
+I want to go with, but I can't.
+
+[[Reveal Ending|CHATTERBOX ENDING]]
+
+
+:: "Where's the lucky guy?" {"position":"4084.3333333333335,1058.9999999999998","size":"100,100"}
+"Where's the lucky guy?"
+
+"Working with other men to rebuild. I was sent away because it's not 'women's work,'" she says, sticking her tongue out.
+
+
+"Can I have [[coins|Lauren says no]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "Why were you in the area, Bryce?" {"position":"1238.3333333333335,2698.1666666666665","size":"100,100"}
+"Kate's... you see, I kinda... I liked Kate. And when I heard her talking to Heather about going to the library, I thought this was my chance to tell her." He sighs, "I was so close, but now she's gone."
+
+
+(link-goto: "I'll make a note of that.", (history:)'s last)
+
+
+:: "Why were you in the area, Emily?" {"position":"1553.3333333333333,2771.4999999999995","size":"100,100"}
+"I was with my mom. We returning some books from last week," Emily says.
+
+
+(link-goto: "I'll make a note of that.", (history:)'s last)
+
+
+:: "Why were you in the area, Heather?" {"position":"1710.0000000000002,2776.4999999999995","size":"100,100"}
+"Kate... Kate wanted to go to the library. She needed a book for class, and dragged me along. ...If she had gone alone..."
+
+
+(link-goto: "I'll make a note of that.", (history:)'s last)
+
+
+:: "You won't believe me." {"position":"3877.666666666667,2158.333333333334","size":"100,100"}
+"You won't believe me."
+
+"Really? I'm sure I've seen weirder," he states.
+
+
+[["Like what?"]]
+"Can I have [[coins]] for a drink?"
+(link-goto: "Forget I said anything.", (history:)'s last)
+
+
+:: "what would you save?" {"position":"8347,4229.333333333334","size":"100,100"}
+Alex thinks for a moment, "I would probably save my quilt. It was made by my grandmother. There are a lot of memories all over it that can't ever be replaced."
+(if: $inv contains "Admiration")[(set: $inv to $inv + (a: "They're the one!"))]
+(else-if: $inv contains "Admiration")[(set: $inv to $inv + (a: "They're the one!"))]
+(else:)[(set: $inv to $inv + (a: "Admiration"))]
+
+(link-goto: "I smile at my date.", (history:)'s last)
+
+
+:: A Free hugs coupon book {"position":"9088.666666666666,3994.6666666666665","size":"100,100"}
+"How did you know!" Alex squeals, "I've always wanted a free hugs coupon book!"
+
+
+(set: $inv to $inv + (a: "awesome gift")) 
+
+(link-goto: "Purchase the gift.", (history:)'s last)
+
+
+:: A new phone {"position":"9525.333333333334,3676.666666666667","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the gift back.
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: A notebook {"position":"9390.333333333334,3790","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the gift back.
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: A printer {"position":"9058.666666666666,4178","size":"100,100"}
+"How did you know!" Alex squeals, "I've always wanted a printer!"
+
+
+(set: $inv to $inv + (a: "awesome gift")) 
+
+(link-goto: "Purchase the gift.", (history:)'s last)
+
+
+:: A videogame {"position":"9345.333333333334,4199.666666666666","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the gift back.
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: ANGRY RORY ENDING {"position":"3124.666666666667,1517.3333333333337","size":"100,100"}
+<h2>DEATH ENDING: Angry Rory</h2>
+
+Don't talk to Rory. It's simple.
+
+
+This ending is a 'death ending', which means it is one of many endings where the player is killed by an NPC because they took certain actions in a row, which they could have avoided, but probably chose not to.
+These endings are only found within the six genre sections.
+
+
+There are six(6) total types of endings.
+
+
+
+:: Alex {"position":"7519.333333333334,4003.5","size":"100,100"}
+"Ah, yes," the Maitre'd says, "I see. Your table is in the center, good patron. Your date is waiting for you."
+
+
+[["Wait, date?"|Podium]]
+
+
+:: Alice {"position":"4347.666666666667,846.3333333333335","size":"100,100"}
+
+
+[["Mind if I sit here, Alice?"]]
+"Can I have [[coins]] for a drink?"
+
+(link-goto: "Leave the person alone.", (history:)'s last)
+
+
+:: Alice says no {"position":"4431,1181.3333333333335","size":"100,100"}
+"Pfft," she laughs, "find another person, sweetheart. I don't cater to charity cases."
+
+
+[["I should be going."|w table2]]
+
+
+:: All Correct {"position":"6613.333333333334,867","size":"100,100"}
+"Yes! That all sounds right," Skylar says, "Well, I suppose I should give you this."
+
+She hands me a book. Once I take it, the doorway opens up, allowing me to leave.
+
+I walk back to the [[entrance|Historical Section]] of the Historical Section.
+(set: $inv to $inv + (a: "Historical Book")) 
+
+
+:: Amaryllises {"position":"8472.666666666668,3059","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: BROKE ENDING {"position":"3600.666666666667,703.3333333333335","size":"100,100"}
+<h2>STUCK ENDING: Broke</h2>
+
+Couldn't afford it, and couldn't convince someone else to buy for you.
+Oh well.
+
+
+This ending is a 'stuck ending', which means it is one of many endings where the player is unable to leave the section they are in, let alone the library.
+These endings are only found within the six genre sections.
+
+
+There are six(6) total types of endings.
+
+
+:: Bartender {"position":"3696.0000000000005,1933.3333333333335","size":"100,100"}
+The bartender nods to me, setting one glass down and picking up another.
+
+[[Ask for a free drink.|coins]]
+(if: $inv contains "gold coins") [<do nothing>]
+(else-if: $inv contains "gold coins")[<do nothing>]
+(else:)[[Pay for a drink]]]
+
+
+:: Because I can {"position":"1225.0000000000002,443.33333333333337","size":"100,100"}
+The painting is a portrait of a man. His face is kind and gentle, but I can't quite name the color of his eyes.
+
+A lamb is draped across his shoulders.
+
+
+I [[look away|Main Room]].
+
+
+:: Bryce {"position":"1371.6666666666667,2644.833333333333","size":"100,100"}
+"Hello," Bryce says, sounding nervous.
+
+"I just have a few questions for you," I say.
+
+[["What did you see, Bryce?"]]
+[["Why were you in the area, Bryce?"]]
+
+
+(link-goto: "I thank the witness and walk away.", (history:)'s last)
+
+
+:: Butch {"position":"2279.3333333333335,1995.5","size":"100,100"}
+I walk up to the suspect, "Where were you when the crime took place?"
+
+"I was heading out to check out a book. A buddy was with me."
+
+
+(link-goto: "I nod to the suspect and step back.", (history:)'s last)
+
+
+:: Butch's the Killer {"position":"1703.9999999999998,1454.1666666666665","size":"100,100"}
+They let everyone else go, but bring Butch to the station.
+Later in the week, forensics gets the test back on the hair strands found at the crime scene. It doesn't match Butch.
+
+"We'll get the culprit next time," Detective Steve says, "but you should take a break. I think the job is getting to you."
+
+[[Reveal Ending|ON LEAVE ENDING]]
+
+
+:: CHATTERBOX ENDING {"position":"7735.666666666668,501.6666666666665","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: Calla Lilies {"position":"7729.666666666668,3301.3333333333335","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Carter {"position":"2276.0000000000005,2213.8333333333335","size":"100,100"}
+I walk up to the suspect, "Where were you when the crime took place?"
+
+Carter shrugs, "Just wandering around, with couple friends."
+
+
+(link-goto: "I nod to the suspect and step back.", (history:)'s last)
+
+
+:: Carter's the Killer {"position":"1818.9999999999998,1465.8333333333333","size":"100,100"}
+They let everyone else go, but bring Carter to the station.
+Later in the week, forensics gets the test back on the hair strands found at the crime scene. It doesn't match Carter.
+
+"We'll get the culprit next time," Detective Steve says, "but you should take a break. I think the job is getting to you."
+
+[[Reveal Ending|ON LEAVE ENDING]]
+
+
+:: Center Table {"position":"8281.666666666668,3741.333333333334","size":"100,100"}
+(if: $inv contains "They're the one!")[Alex stands next to the center table, waiting for me to do something.]
+(else-if: $inv contains "They're the one!")[Alex stands next to the center table, waiting for me to do something.]
+(else:)['Alex' is sitting at the center table, across from an empty seat.
+
+"Took you long enough," my date says.]
+
+
+I walk to the [[Podium]].
+I walk to the [[North Table]].
+I walk to the [[East Table]].
+I walk to the [[South Table]].
+
+(if: $inv contains "awesome gift")[<do nothing>]
+(else-if: $inv contains "awesome gift")[<do nothing>]
+(else:)[[[sit down|seated]]]
+
+
+:: Chance for tips {"position":"1212,24.166666666666714","size":"100,100"}
+There is a Librarian sitting at the front desk, amid a sea of chairs, tables, and green tinted lamps.
+There are doorways leading to two sections and a main aisle curving away in the opposite direction.
+The room is only one floor, as is the rest of the building.
+The walls are panelled and have paintings hung on them.
+There are a few people sitting in the room, doing their own thing silently.
+
+
+I go up to the [[old man]].
+I go up to the [[young man]].
+I go up to the [[woman]].
+I go up to the [[little girl]].
+I go up to the [[Librarian]].
+
+
+:: Chance to escape Library {"position":"998.3333333333334,24.166666666666657","size":"100,100"}
+I walk over to the big double doors.
+I know the street is right outside.
+
+
+[[I don't want to leave yet.|Main Room]]
+[[I am going to leave.|No Going Back]]
+
+
+:: Check Scroll {"position":"5762,3879.000000000002","size":"100,100"}
+
+
+
+(if: $inv contains "pink scroll" and "orange scroll" and "gray scroll" and "purple scroll") ["Congrats, you found all the wrong scrolls! Don't you know your colors!"
+The Sorceress creates a ball of electricity and throws it at me.
+
+[[Reveal Ending|WRONG COLORS ENDING]]]
+(else-if: $inv contains "pink scroll" and "orange scroll" and "gray scroll" and "purple scroll")["Congrats, you found all the wrong scrolls! Don't you know your colors!"
+The Sorceress creates a ball of electricity and throws it at me.
+
+[[Reveal Ending|WRONG COLORS ENDING]]]
+(else:)[I spill everyone from my pockets onto the table.
+(if: $inv contains "red scroll" and "blue scroll" and "brown scroll" and "green scroll" and "black scroll" and "yellow scroll") ["You found all my scrolls! Thank you! Here is a key to the chests at the doorway. What you seek is in one of them. Choose wisely." (set: $inv to $inv + (a: "Key for Chests")) (set: $inv to $inv - (a: "red scroll", "blue scroll", "brown scroll", "green scroll", "black scroll", "yellow scroll"))
+]
+(else-if: $inv contains "red scroll" and "blue scroll" and "brown scroll" and "green scroll" and "black scroll" and "yellow scroll")["You found all my scrolls! Thank you! Here is a key to the chests at the doorway. What you seek is in one of them. Choose wisely." (set: $inv to $inv + (a: "Key for Chests")) (set: $inv to $inv - (a: "red scroll", "blue scroll", "brown scroll", "green scroll", "black scroll", "yellow scroll"))]
+(else:)["You do not have all the scrolls I need. Keep looking."
+
+(link-goto: "I walk away.", (history:)'s last)]]
+
+
+:: Chocolate {"position":"9327,3621.666666666667","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the gift back.
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Chrysanthemums {"position":"7626.333333333336,3299.6666666666665","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Classical {"position":"8398.333333333334,3883.0000000000005","size":"100,100"}
+My date stares at me like I'm kidding.
+
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "...On second thought-", (history:)'s last)
+
+
+:: CompleteA [donotshowinventory] {"position":"2815,7.499999999999915","size":"100,100"}
+(if: $inv contains "Fantasy Book, Historical Book, Western Book, Romance Book, Mystery Book, Science Fiction Book")[The Librarian stamps six small papers and tucks one into each book, and scans my library card.
+
+She slides everything across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|LEGENDARY ENDING]]]
+(else-if: $inv contains "Fantasy Book, Historical Book, Western Book, Romance Book, Mystery Book, Science Fiction Book")[The Librarian stamps six small papers and tucks one into each book, and scans my library card.
+
+She slides everything across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|LEGENDARY ENDING]]]
+(else:)["I'm sorry, you do not have all the books for this checkout," the Librarian says.
+
+(link-goto: "Nevermind.", (history:)'s last)]
+
+
+:: CompleteF [donotshowinventory] {"position":"2180.666666666666,2.499999999999943","size":"100,100"}
+(if: $inv contains "Fantasy Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|FANTASY COMPLETION ENDING]]]
+(else-if: $inv contains "Fantasy Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|FANTASY COMPLETION ENDING]]]
+(else:)["I'm sorry, you do not have the correct book for this checkout," the Librarian says.
+
+(link-goto: "Nevermind.", (history:)'s last)]
+
+
+
+:: CompleteH [donotshowinventory] {"position":"2287.3333333333326,4.166666666666629","size":"100,100"}
+(if: $inv contains "Historical Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|HISTORICAL COMPLETION ENDING]]]
+(else-if: $inv contains "Historical Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|HISTORICAL COMPLETION ENDING]]]
+(else:)["I'm sorry, you do not have the correct book for this checkout," the Librarian says.
+
+(link-goto: "Nevermind.", (history:)'s last)]
+
+
+:: CompleteM [donotshowinventory] {"position":"2603.333333333333,5.833333333333314","size":"100,100"}
+(if: $inv contains "Mystery Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|MYSTERY COMPLETION ENDING]]]
+(else-if: $inv contains "Mystery Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|MYSTERY COMPLETION ENDING]]]
+(else:)["I'm sorry, you do not have the correct book for this checkout," the Librarian says.
+
+(link-goto: "Nevermind.", (history:)'s last)]
+
+
+:: CompleteR [donotshowinventory] {"position":"2498.333333333333,4.166666666666657","size":"100,100"}
+(if: $inv contains "Romance Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|ROMANCE COMPLETION ENDING]]]
+(else-if: $inv contains "Romance Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|ROMANCE COMPLETION ENDING]]]
+(else:)["I'm sorry, you do not have the correct book for this checkout," the Librarian says.
+
+(link-goto: "Nevermind.", (history:)'s last)]
+
+
+:: CompleteS [donotshowinventory] {"position":"2708.333333333333,4.166666666666515","size":"100,100"}
+(if: $inv contains "Science Fiction Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|SCI-FI COMPLETION ENDING]]]
+(else-if: $inv contains "Science Fiction Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|SCI-FI COMPLETION ENDING]]]
+(else:)["I'm sorry, you do not have the correct book for this checkout," the Librarian says.
+
+(link-goto: "Nevermind.", (history:)'s last)]
+
+
+:: CompleteW [donotshowinventory] {"position":"2394.9999999999995,4.166666666666657","size":"100,100"}
+(if: $inv contains "Western Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|WESTERN COMPLETION ENDING]]]
+(else-if: $inv contains "Western Book")[The Librarian stamps a small paper and tucks it into the book, and scans my library card.
+
+She slides both across the desk, smiling at me, "Here to go."
+
+I take the book and card, walking out of the library.
+
+I smile, seeing the world with a new perspective.
+
+All because of a library.
+
+
+[[Reveal Ending|WESTERN COMPLETION ENDING]]]
+(else:)["I'm sorry, you do not have the correct book for this checkout," the Librarian says.
+
+(link-goto: "Nevermind.", (history:)'s last)]
+
+
+
+:: Country {"position":"8540.333333333334,3772","size":"100,100"}
+My date looks at me, smiling, "You know me so well."
+
+(set: $inv to $inv + (a: "music")) 
+(link-goto: "I smile at my date.", (history:)'s last)
+
+
+:: Crime Scene {"position":"1605.0000000000002,2232.5","size":"100,100"}
+There is a body covered in a sheet in the middle of the taped off area.
+A few items have been tagged as evidence.
+
+I examine the [[gun]]/[[coat]]/[[footprints]]/[[sunglasses]].
+I talk to [[Officer Nat]].
+
+
+I walk to [[Detective Steve]].
+I walk to the [[Suspects]] 
+I walk to the [[Witnesses]]
+
+
+:: DRAGON KEEPER STUCK ENDING {"position":"4053,3042","size":"100,100"}
+DRAGON KEEPER ENDING
+
+Congratulations!
+You are now the proud owner of three dragon eggs.
+You are unable to part from the eggs until they hatch, and the dragon babies will be a constant in your life forever.
+And, as the dragons cannot leave the library, you must remain with them. Indefinitely.
+
+...I hope you don't like being in the possession of gold (or metal in general), because once they are old enough, the dragons will take everything shiny they see and hoard it in places you'll never reach again.
+
+
+This ending is a 'stuck ending', which means it is one of many endings where the player is unable to leave the section they are in, let alone the library.
+These endings are only found within the six genre sections.
+
+
+There are six(6) total types of endings.
+
+
+:: Daffodils {"position":"8076.666666666668,3302.333333333333","size":"100,100"}
+(set: $inv to $inv + (a: "Daffodils")) 
+
+My date loves the flowers!
+
+Now, let's go to the next flower wall to (link-goto: "pick", (history:)'s last) another flower for my date.
+
+
+:: Daisies {"position":"7940.000000000002,3175.6666666666665","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Dan {"position":"4746.333333333333,1445.6666666666667","size":"100,100"}
+
+
+[["Mind if I sit here, Dan?"]]
+"Can I have [[coins]] for a drink?"
+
+(link-goto: "Leave the person alone.", (history:)'s last)
+
+
+:: Date {"position":"8341.666666666666,4007.666666666667","size":"100,100"}
+(if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[Reveal Ending|WORK ENDING]]]
+(else-if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[|Reveal Ending|WORK ENDING]]]
+(else:)[(if: $inv contains "They're the one!")[My date turns around, "Oh look! This place has gifts! Let's go [[see|Center Table]]."]
+(else-if: $inv contains "They're the one!")[My date turns around, "Oh look! This place has gifts! Let's go [[see|Center Table]]."]
+(else:)[I decide to get to know my date:
+[["How was your day?"]]
+[["What's your favorite animal?"]]
+[["What language would you love to speak?"]]
+[["What's your favorite color?"]]
+"If the house was on fire," I ask, [["what would you save?"]]
+
+[[stay quiet|seated]]]]
+
+
+:: Detective Steve {"position":"1718.6666666666663,1785.5","size":"100,100"}
+"You have a question, Partner?" the detective asks.
+
+
+[[When did you arrive here, partner?]]
+[[What did you find, partner?]]
+[[Who do you think did it, partner?]]
+
+(link-goto: "Thank Detective Steve and walk away.", (history:)'s last)
+
+[[I know who did it.]]
+
+
+:: Don't care. Still won't help. {"position":"5512,4165.666666666668","size":"100,100"}
+"Oh, so that's how you feel? Okay, fine," the sorceress creates a ball of electricity and throws it at me.
+
+[[Reveal Ending|REFUSAL ENDING]]
+
+
+:: Dorothy {"position":"7733.666666666668,894.9999999999999","size":"100,100"}
+"Hiya!" Dorothy greets.
+
+
+[["How do you know Henry?"]]
+[["What do you think about Isabel?"]]
+[["Do you know Sara?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+
+:: Dorothy and Nathan {"position":"6996.000000000001,598.3333333333333","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: East Table {"position":"8826.666666666668,3459.3333333333335","size":"100,100"}
+There is one person sitting at this table, Wilkes.
+Wilkes glares at different patrons on their way to the glass cases holding gifts, which is nearby.
+
+I talk to [[Wilkes]].
+
+I walk to the [[North Table]].
+I walk to the [[Center Table]].
+(if: $inv contains "Admiration, They're the one!") [I walk to the [[First Gift Table]].]
+(else-if: $inv contains "Admiration, They're the one!")[I walk to the [[First Gift Table]].]
+(else:)[We need to finish our meal before we can look at gifts.]
+
+
+
+:: Emily {"position":"1521.6666666666667,2644.833333333333","size":"100,100"}
+"Hello," Emily says quietly.
+
+"I just have a few questions for you," I say.
+
+[["What did you see, Emily?"]]
+[["Why were you in the area, Emily?"]]
+
+
+(link-goto: "I thank the witness and walk away.", (history:)'s last)
+
+
+:: Enigma Reiter [donotshowinventory] {"position":"1525,17.499999999999993","size":"100,100"}
+"Enigma Reiter is the designer of this library, as it was named after her. You will probably never meet her, as she is not a very... social, person."
+
+"She prefers her books and stories, than people."
+
+"Did you have another [[question|Librarian]]?"
+
+
+:: FANTASY COMPLETION ENDING [donotshowinventory] {"position":"2183.9999999999995,106.66666666666674","size":"100,100"}
+<h2>COMPLETION ENDING: Fantasy</h2>
+
+This ending was achieved by successfully getting through the Fantasy section of the Library, which gives the player a book, and then checking out the book at the Librarian.
+This is the only way to get this ending, but there isn't one strict route the player must take to reach it within the section.
+
+
+There are six(6) total types of endings.
+
+
+:: Fantasy {"position":"1642,139.16666666666666","size":"100,100"}
+"Fantasy takes readers to a new world, and gives way to magical adventure," the Librarian says, "I believe the book titled *Dargon Cove* is still available."
+
+
+"Did you have another [[question|sections]]?"
+
+
+:: Fantasy Book {"position":"3336.6666666666665,101.66666666666669","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: Fantasy Image {"position":"1328.9999999999998,340.00000000000006","size":"100,100"}
+The picture is of a clutch of scaly eggs. Each egg is a different jeweled color and sits upon a bed of faded, rusting coins. It seems the very bottoms of the eggs are rusting too. The backdrop of the painting is gray.
+
+I [[look away|Main Room]].
+
+
+:: Fantasy Section {"position":"4366.333333333334,2796.166666666667","size":"100,100"}
+I am in an open room with a doorway behind me and another to my left.
+
+There are tables and chairs dotted throughout the space. Bookshelves line the walls, with chests and scrolls poking out between the books. There are vials, beakers, and a strange assortment of items all over the tables. The table closest to the door holds three chests.
+
+I hear a voice behind all the bookshelves.
+
+(if: $inv contains "Fantasy Book") [<do nothing>]
+(else-if: $inv contains "Fantasy Book")[<do nothing>]
+(else:)[I [[follow|Fantasy Start]] the strange voice.]
+I walk back to the [[Main Room]].
+I skirt along the wall and walk into the [[Romance Section]].
+
+
+:: Fantasy Start {"position":"4363.999999999999,2939.5","size":"100,100"}
+I step in the room.
+The opening behind me becomes overgrown with vines and thorns.
+
+The voice says something again.
+
+"Hello!" I call.
+
+"North, east, east, north, and go to the tables," the voice calls.
+
+[["Might as well find out who that is. Maybe they can help me leave."|f open]]
+
+
+:: Fantasy Tip {"position":"1852.3333333333326,422.50000000000006","size":"100,100"}
+“Darling! It’s time to go,” the woman says, coming over.
+
+“But Mommy! I have to tell-”
+
+“What did I tell you about talking to strangers?” The woman takes her daughter’s hand and half drags her, gently, out of the chair.
+
+“Mommy-”
+
+“No, we are late as we are,” the woman says.
+
+"Just five more minutes! Please!"
+
+The woman sighs, "...Alright."
+
+The little girl turns around to look at me, “*Blue* is such a magical color, don't you think?”
+
+
+I ask her about her favorite [[section|Western Tip]].
+I leave her [[alone|Chance for tips]].
+
+
+:: First Flower Wall {"position":"7626.333333333335,3519.666666666667","size":"100,100"}
+(if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[Reveal Ending|WORK ENDING]]]
+(else-if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[|Reveal Ending|WORK ENDING]]]
+(else:)[We stop at a wall with flower bouquets poking out of the shelves.
+
+[[Morning Glories]]
+[[Roses]]
+[[Calla Lilies]]
+[[Chrysanthemums]]
+[[Marigolds]]
+[[Tulips]]
+[[Forget-Me-Nots]]
+
+(if: $inv contains "morning glories")[flower wall to the [[right|Second Flower Wall]]]
+(else-if: $inv contains "morning glories")[flower wall to the [[right|Second Flower Wall]]]
+(else:)[<do nothing>]
+I walk to the [[North Table]]].
+
+
+:: First Gift Table {"position":"8915.333333333334,3658.3333333333335","size":"100,100"}
+(if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[Reveal Ending|WORK ENDING]]]
+(else-if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[|Reveal Ending|WORK ENDING]]]
+(else:)[We stop at a table with a glass box on top. There are various items inside.
+
+I decide to get my date one of the following:
+[[Teddy Bear]]
+[[Chocolate]]
+[[A notebook]]
+[[Jewelry]]
+[[A new phone]]
+
+
+I walk to the [[other glass case|Second Gift Table]].
+I walk to the [[East Table]].]
+
+
+:: Fix {"position":"1334.666666666667,4291.666666666666","size":"100,100"}
+(if: $inv contains " ") []
+(else-if: $inv contains " ")[]
+(else:)[]
+
+(if: $inv contains " ") []
+(else-if: $inv contains " ")[]
+(else:)[]
+
+(if: $inv contains " ") []
+(else-if: $inv contains " ")[]
+(else:)[]
+
+(if: $inv contains " ") []
+(else-if: $inv contains " ")[]
+(else:)[]
+
+(if: $inv contains " ") []
+(else-if: $inv contains " ")[]
+(else:)[]
+
+(if: $inv contains " ") []
+(else-if: $inv contains " ")[]
+(else:)[]
+
+(if: $inv contains " ") []
+(else-if: $inv contains " ")[]
+(else:)[]
+
+(if: $inv contains " ") []
+(else-if: $inv contains " ")[]
+(else:)[]
+
+
+:: Footer [footer] {"position":"3098.333333333333,4.166666666666458","size":"100,100"}
+(if: (passage:)'s name is "inventory")[<Do nothing>]
+(else-if: (passage:)'s tags contains "donotshowinventory")[<Do nothing>]
+(else:)[Check [[inventory]].]
+
+
+:: Forget-Me-Nots {"position":"7519.666666666669,3403.0000000000005","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Front Door {"position":"1100,25","size":"100,100"}
+I stand in front of a large library. It's walls are red and orange brick, covered in vines and moss. The short black marble steps lead to two dark colored pillars guarding a set of rich double hard wood doors.
+
+The plaque next to the door says 'Enigma Reiter Library.'
+
+A few of my friends had recommended this library to me, but only on reputation, saying there is none like it.
+But, so far, I've seen more impressive libraries before.
+
+I walk up the steps and open the [[doors|Chance for tips]].
+
+(set: $inv to (a: "five dollars"))
+
+
+:: Garret {"position":"7083.333333333334,1381","size":"100,100"}
+"Hey, nice to meet you. Have a seat," Garret says.
+
+
+[["How do you know Nathan?"]]
+[["What do you think about Timothy?"]]
+[["Do you know Leonard?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: HISTORICAL COMPLETION ENDING [donotshowinventory] {"position":"2289,105.00000000000006","size":"100,100"}
+<h2>COMPLETION ENDING: Historical Fiction</h2>
+
+This ending was achieved by successfully getting through the Historical Fiction section of the Library, which gives the player a book, and then checking out the book at the Librarian.
+This is the only way to get this ending, but there isn't one strict route the player must take to reach it within the section.
+
+
+There are six(6) total types of endings.
+
+
+:: Hate {"position":"3303.3333333333335,524.1666666666667","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: Heather {"position":"1671.6666666666667,2644.833333333333","size":"100,100"}
+"Hello," Heather says, her voice even.
+
+"I just have a few questions for you," I say.
+
+[["What did you see, Heather?"]]
+[["Why were you in the area, Heather?"]]
+
+
+(link-goto: "I thank the witness and walk away.", (history:)'s last)
+
+
+:: Helen {"position":"8335.333333333334,993","size":"100,100"}
+"Hello," Helen says.
+
+
+[["What do you think about Leonard?"]]
+[["How do you know Dorothy?"]]
+[["Do you know Isabel?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Henry {"position":"7742.000000000001,1428.3333333333335","size":"100,100"}
+"Hey," Henry says, not looking at me.
+
+
+[["How do you know Jeremy?"]]
+[["What do you think about Martha?"]]
+[["Do you know Helen?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Henry and Garret {"position":"7224.666666666667,499.33333333333326","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Hibiscuses {"position":"8061.666666666668,3179","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Historical Book {"position":"3969,0.8333333333331439","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: Historical Fiction {"position":"1433.9999999999998,132.50000000000009","size":"100,100"}
+"Historical Fiction gives a new look at events of the past, either by filling in the gaps, or exploring something that didn't happen, but could have," the Librarian says, "I believe the book titled *The 1890s Socialite* is still available."
+
+
+"Did you have another [[question|sections]]?"
+
+
+:: Historical Image {"position":"1434,446.66666666666674","size":"100,100"}
+The picture shows a crowd on a busy street. But what I find interesting is that no two buildings look like they are from the same era, or place.
+
+And the same goes for the people. Every member of the crowd is in completely different clothing from everyone else.
+
+I [[look away|Main Room]].
+
+
+:: Historical Section {"position":"6621.666666666668,1016.1666666666667","size":"100,100"}
+(if: $inv contains "Historical Book") [The room is a normal library study room. Looks like Skylar Mirtle went back to her time, and her family members all dispersed.]
+(else-if: $inv contains "Historical Book")[The room is a normal library study room. Looks like Skylar Mirtle went back to her time, and her family members all dispersed.]
+(else:)[There is a room with people sitting at tables. There is one girl standing near the entrance, waving me over.
+[[I walk over to her.|History Start]]]
+I walk to the [[Main Room]].
+I skirt along the wall and walk into the [[Romance Section]].
+
+
+:: Historical Tip {"position":"1845.666666666666,214.16666666666669","size":"100,100"}
+“Well, none of the areas of this library have anything to learn,” she sighs. “…But, I did learn that Skylar Mirtle's ancestors *Jeremy* and *Timothy* were twins. So it isn't completely useless.”
+
+
+I leave her [[alone|Chance for tips]].
+
+
+:: History Start {"position":"6778.333333333334,999.5","size":"100,100"}
+"Hi, my name is Skylar Mirtle," the person tells me, "I need help with figuring out part of my family tree. We are back in time to actually talk to them. All you need to do is ask the people in this room questions, then tell me what you found. But there are some people that aren't part of my family. They were just in the room at this particular time. ...I can't remember who, though."
+
+
+[[I got this.|h open]]
+[[I can't do this.]]
+
+
+:: Holly {"position":"4844.333333333334,1951.666666666667","size":"100,100"}
+
+
+
+[["Mind if I sit here, Holly?"]]
+"Can I have [[coins]] for a drink?"
+
+(link-goto: "Leave the person alone.", (history:)'s last)
+
+
+:: Hydrangeas {"position":"8357.666666666668,3055.6666666666665","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: I can't do this. {"position":"6778.333333333334,1101.1666666666665","size":"100,100"}
+"Please?" Skylar asks, "this would be so helpful to me. I need to get this right."
+
+[["...Fine."|h open]]
+
+
+:: I know who did it. {"position":"1668.6666666666665,1662.1666666666665","size":"100,100"}
+"I know who did it," I say.
+"Oh? Who?" Detective Steve says.
+
+I point to the person and say:
+"[[Joe's the Killer]]."
+"[[Neil's the Killer]]."
+"[[Butch's the Killer]]."
+"[[Layla's the Killer]]."
+"[[Carter's the Killer]]."
+
+
+(link-goto: "Nevermind, I'm not sure.", (history:)'s last)
+
+
+:: Insist. {"position":"6967.666666666668,2231.666666666667","size":"100,100"}
+I should have walked away. He doesn't even get up, but takes a blade out of his pocket and.... I don't know what happens after I collapse to the floor.
+
+
+[[Reveal Endng|MURDERED ENDING]]
+
+
+:: Isabel {"position":"7725,2078","size":"100,100"}
+"Hello," Isabel says sweetly.
+
+
+[["How do you know Timothy?"]]
+[["What do you think about Henry?"]]
+[["Do you know Susan?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Isabel and Nathan {"position":"7106,601.6666666666665","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: It is Dorothy. {"position":"6767.666666666667,606.6666666666667","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: It is Leonard. {"position":"6795.333333333333,351","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: It is Sara. {"position":"6784.666666666667,474.3333333333335","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: It's Helen. {"position":"6872.666666666667,585","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: It's Henry. {"position":"6886.333333333334,459.33333333333326","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: It's Nathan. {"position":"6898.666666666667,337.66666666666663","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Item 1 {"position":"669.9999999999999,24.166666666666686","size":"100,100"}
+The restroom has the following:
+-five stalls along the far wall
+-four sinks to the left of the door
+-one big mirror on the left wall
+-two wide light strips in the center of the ceiling
+-a hand dryer between the sinks and the mirror
+-a drain in the center of the floor
+-a small vent high up on the wall next to the stalls
+-the right wall is blank
+
+
+I cover the entire mirror with [[sticky notes|i1w1]].
+I rip up the [[sticky notes|i1w2]] and flush them down a toilet.
+I plug the hand dryer using the [[sticky notes|i1w3]].
+I create an artwork on the blank wall using the [[sticky notes|Item 2]].
+I cover all the sink drains with [[sticky notes|i1w4]] and try to get them to overflow.
+I walk back to the lost and found, put everything back, and close the [[door|Main Aisle 1]].
+
+
+:: Item 2 {"position":"565.0000000000001,24.999999999999957","size":"100,100"}
+I take the sticky notes and start carefully placing them on the blank wall. I finish, standing back for a moment to admire my masterpiece.
+
+All is quiet.
+
+
+I plug a sink with the [[head of broccoli|i2w1]].
+I lay on the floor, rip off pieces of the [[head of broccoli|Item 3]] and try to hit the lights.
+I bash the [[head of broccoli|i2w2]] against the mirror.
+I hide the [[head of broccoli|i2w3]] behind the vent in the wall.
+I drop the [[head of broccoli|i2w4]] in a toilet.
+I walk back to the lost and found, put everything back, and close the [[door|Main Aisle 1]].
+
+
+:: Item 3 {"position":"460.00000000000006,23.333333333333314","size":"100,100"}
+I lay in the center of the floor, holding the broccoli in one hand. I take a piece and toss it in the air. It doesn't quite reach the lights, so I throw another one.
+
+Eventually, all the broccoli is in pieces on the floor.
+
+
+I wash the [[pile of clothes|i3w1]] in the sink.
+I drop the [[pile of clothes|i3w2]] over the drain in the floor.
+I hang the [[pile of clothes|i3w3]] over the stall doors.
+I check to see if anything in the [[pile of clothes|i3w4]] fits me by holding them in front of the mirror.
+I plug all the toilets with the [[pile of clothes|Item 4]].
+I walk back to the lost and found, put everything back, and close the [[door|Main Aisle 1]].
+
+
+:: Item 4 {"position":"353.3333333333333,24.99999999999998","size":"100,100"}
+I divide the clothes into five smaller piles.
+I open the first stall and stuff the clothes inside.
+I open the second stall and freeze, before tossing the fabric in the general direction of the toilet and close the door.
+I open the third stall and plug my nose as I drop the fabric in the bowl.
+I open the fourth stall and stuff the clothes inside.
+I open the fifth stall and step around the puddle to reach the toilet.
+
+I then step back out into the open area.
+
+
+I try to fit the entire [[pool cue|Item 5]] inside the vent in the wall.
+I break the drain in the floor with the [[pool cue|i4w1]].
+I use the [[pool cue|i4w2]] to slam all the stall doors open.
+I check if the mirror is longer than the [[pool cue|i4w3]].
+I whack at the lights wildly with the [[pool cue|i4w4]].
+I walk back to the lost and found, put everything back, and close the [[door|Main Aisle 1]].
+
+
+:: Item 5 {"position":"248.33333333333334,28.333333333333247","size":"100,100"}
+It was easy to open the vent, because the screws were loose. I take the pool cue and poke the thicker end into the vent. I slide it through, but it hits a dead end when only three fourths of the stick is inside.
+
+I try to ram it back, but it doesn't work, so I leave it there.
+
+
+I throw the [[cinderblock|i5w1]] at the blank wall.
+I bash the vent in the wall with the [[cinderblock|i5w2]].
+I destroy hand dryer with the [[cinderblock|Kicked Out]].
+I soak the [[cinderblock|i5w3]] in the sink.
+I throw the [[cinderblock|i5w4]] up and try to hit one of the lights.
+I walk back to the lost and found, put everything back, and close the [[door|Main Aisle 1]].
+
+
+:: Jeremy {"position":"8467.666666666668,2060.3333333333335","size":"100,100"}
+"Hello there," Jeremy greets.
+
+
+[["How do you know Isabel?"]]
+[["What do you think about Sara?"]]
+[["Do you know Garret?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Jewelry {"position":"9153.666666666668,3808.333333333333","size":"100,100"}
+"How did you know!" Alex squeals, "I've always wanted this jewelry!"
+
+
+(set: $inv to $inv + (a: "good gift")) 
+
+(link-goto: "Purchase the gift.", (history:)'s last)
+
+
+:: Joe {"position":"2276,1780.5000000000005","size":"100,100"}
+I walk up to the suspect, "Where were you when the crime took place?"
+
+"I was reading a book in one room over. I was alone."
+
+
+(link-goto: "I nod to the suspect and step back.", (history:)'s last)
+
+
+:: Joe's the Killer {"position":"1547.3333333333333,1470.8333333333333","size":"100,100"}
+They let everyone else go, but bring Joe to the station.
+Later in the week, forensics gets the test back on the hair strands found at the crime scene. It doesn't match Joe.
+
+"We'll get the culprit next time," Detective Steve says, "but you should take a break. I think the job is getting to you."
+
+[[Reveal Ending|ON LEAVE ENDING]]
+
+
+:: Katrina {"position":"4329.666666666667,1340.6666666666667","size":"100,100"}
+
+
+[["Mind if I sit here, Katrina?"]]
+"Can I have [[coins]] for a drink?"
+
+(link-goto: "Leave the person alone.", (history:)'s last)
+
+
+:: Key for Chests {"position":"3642.3333333333335,101.66666666666667","size":"100,100"}
+-Used to open the three chests near the door. One holds the Fantasy Book. The others? Well... Choose wisely.
+
+
+:: Kicked Out [donotshowinventory] {"position":"141.66666666666666,24.99999999999992","size":"100,100"}
+I take the cinderblock in my hands and hit it against the hand dryer multiple times until it's on the ground in pieces, wires poking out of the wall where it used to be.
+
+Security comes rushing into the door. I am picked up and carried through the library.
+On my way past, the Librarian takes my library card back while glaring at me.
+I am dumped onto the sidewalk and the doors slam behind me.
+
+"...That could have gone better."
+
+
+[[Reveal Ending|PITIFUL ENDING]]
+
+
+:: LEGENDARY ENDING [donotshowinventory] {"position":"2818.333333333334,109.16666666666652","size":"100,100"}
+<h2>LEGENDARY ENDING</h2>
+
+This ending was achieved by successfully getting through all the sections of the Library, which gives the player a book each, and then checking out all the books at the Librarian at once.
+This is the only way to get this ending, but there isn't one strict route the player must take to reach it within the sections. And the order of which sections the player goes through is not important.
+
+This ending takes dedication. Congrats for getting here!
+
+
+There are six(6) total types of endings.
+
+
+:: Lasagna and Peas {"position":"8150.333333333334,3883.6666666666674","size":"100,100"}
+My date stares at me like I'm kidding.
+
+(link-goto: "...Actually we'll order-", (history:)'s last)
+
+
+:: Lauren {"position":"4197.666666666667,846.3333333333335","size":"100,100"}
+
+
+[["Mind if I sit here, Lauren?"]]
+"Can I have [[coins]] for a drink?"
+
+(link-goto: "Leave the person alone.", (history:)'s last)
+
+
+:: Lauren says no {"position":"4086,1162.333333333333","size":"100,100"}
+She sighs, "I'm sorry, but I can't afford to right now."
+
+
+[["I should be going."|w table2]]
+
+
+:: Lavenders {"position":"8583.000000000002,3175.6666666666665","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Layla {"position":"2279.3333333333335,2102.166666666667","size":"100,100"}
+I walk up to the suspect, "Where were you when the crime took place?"
+
+"I was waiting for Neil in the hall. I was alone."
+
+
+(link-goto: "I nod to the suspect and step back.", (history:)'s last)
+
+
+:: Layla's the Killer {"position":"1945.6666666666667,1494.1666666666665","size":"100,100"}
+They let everyone else go, but bring Layla to the station.
+Later in the week, forensics gets the test back on the hair strands found at the crime scene. It doesn't match Layla.
+
+"We'll get the culprit next time," Detective Steve says, "but you should take a break. I think the job is getting to you."
+
+I go home and get ready for bed after a long day. But then I hear a gunshot and it's all over.
+
+[[Reveal Ending|REVENGE ENDING]]
+
+
+:: Lead Alien {"position":"1183.0000000000002,4456.666666666666","size":"100,100"}
+
+
+
+The ship is [[ready]].
+
+
+:: Leonard {"position":"7096.000000000001,2073.3333333333335","size":"100,100"}
+"Hm," Leonard says to my greeting.
+
+
+[["How do you know Martha?"]]
+[["What do you think about Helen?"]]
+[["Do you know Nathan?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Leonard and Martha {"position":"7225.333333333333,385.99999999999966","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Librarian {"position":"1327.6666666666672,236.5","size":"100,100"}
+I walk over to the Librarian.
+She looks up, smiling, "Welcome to the Enigma Reiter Library. Do you need any assistance?"
+
+I ask about the library's [[history]].
+I ask about the different [[sections]] of the library.
+(if: $inv contains "library card")[I ask to checkout a [[book|check out]].]
+(else-if: $inv contains "library card")[I ask to checkout a [[book|check out]].]
+(else:)[I ask to buy a [[library card|getting card]].]
+
+I [[walk away|Main Room]].
+
+
+:: Lilacs {"position":"8361.333333333336,3170.666666666667","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Lily of the Valleys {"position":"8483.000000000002,2952.3333333333335","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Lost and Found Closet {"position":"778.3333333333333,242.50000000000003","size":"100,100"}
+I open the lost and found closet.
+
+It's large enough to walk into, and has various items inside:
+There is a cinderblock.
+There is a pile of clothes.
+There is a head of broccoli.
+There is a pool cue.
+There is a box of sticky notes.
+
+
+I take everything out of the lost and found and bring it to the [[restroom|Item 1]].
+I close the [[door|Main Aisle 1]].
+
+
+:: Lotuses {"position":"8180.000000000002,3182.333333333333","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Love {"position":"3405,424.16666666666674","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: MURDERED ENDING {"position":"6967.666666666668,2381.666666666667","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: MYSTERY COMPLETION ENDING [donotshowinventory] {"position":"2603.3333333333335,109.16666666666663","size":"100,100"}
+<h2>COMPLETION ENDING: Mystery</h2>
+
+This ending was achieved by successfully getting through the Mystery section of the Library, which gives the player a book, and then checking out the book at the Librarian.
+This is the only way to get this ending, but there isn't one strict route the player must take to reach it within the section.
+
+
+There are six(6) total types of endings.
+
+
+:: Magnolias {"position":"7946.666666666668,3310.6666666666665","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Main Aisle 1 {"position":"881.6666666666667,242.50000000000003","size":"100,100"}
+The wide hallway-like aisle has wood floor and a green rug along the center. There are paintings on the walls and doorways for one section, a bathroom, and a lost and found.
+
+But there is also more aisle to explore.
+
+I look at a [[painting|SciFi Image]].
+
+I walk farther down the [[Main Aisle|Main Aisle 2]].
+I walk into the public [[Restroom]].
+I walk into the [[Sci-Fi Section|Under Construction]].
+I open the [[Lost and Found Closet]].
+I walk back to the [[Main Room]].
+
+
+:: Main Aisle 2 {"position":"878.3333333333334,390.83333333333326","size":"100,100"}
+The wide hallway-like aisle has wood floor and a green rug along the center. There are paintings on the walls and doorways for two sections.
+
+I look at a [[painting|Mystery Image]].
+I look at another [[painting|Western Image]].
+
+I walk back down the [[Main Aisle|Main Aisle 1]].
+I walk into the [[Western Section]].
+I walk into the [[Mystery Section]].
+
+
+:: Main Room {"position":"1328.9999999999998,443.3333333333335","size":"100,100"}
+There is a Librarian sitting at the front desk, amid a sea of chairs, tables, and green tinted lamps.
+There are doorways leading to two sections and a main aisle curving away in the opposite direction.
+The room is only one floor, as is the rest of the building.
+The walls are panelled and have paintings hung on them.
+
+Everyone else has left the library.
+
+Look at a [[painting|Fantasy Image]].
+Look at another [[painting|Historical Image]].
+Look at another [[painting|Romantic Image]].
+Look at the final [[painting|Because I can]].
+
+I walk over to the [[Librarian]].
+I walk down the [[Main Aisle|Main Aisle 1]].
+I walk into the [[Fantasy Section]].
+I walk into the [[Historical Section]].
+I walk out the [[Front Door|Chance to escape Library]].
+
+
+:: Maitre'd {"position":"7546.333333333333,3733.9999999999995","size":"100,100"}
+"I see your date went well. Your bill has been paid. Have a wonderful night!" 
+
+I turn to my date. They kiss me on the cheek, hand me something, then walk out the door.
+I look down.
+
+I have the Romance Book!
+
+(set: $inv to $inv + (a: "Romance Book")) 
+(set: $inv to $inv - (a: "good item1, good item2, Admiration, They're the one!, music, food, good flower1, good flower2, good flower3")) 
+
+(link-goto: "Walk away.", (history:)'s last)
+
+(if: $inv contains "Not going to work out.")[(set: $inv to $inv - (a: "Not going to work out."))]
+(else-if: $inv contains "Not going to work out.")[(set: $inv to $inv - (a: "Not going to work out."))]
+(else:)[<do nothing>]
+
+(if: $inv contains "Dislike")[(set: $inv to $inv - (a: "Dislike"))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv - (a: "Dislike"))]
+(else:)[<do nothing>]
+
+
+:: Marigolds {"position":"7519.666666666668,3297.9999999999995","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Martha {"position":"8584.333333333334,1494.3333333333335","size":"100,100"}
+"Hi," Martha says.
+
+
+[["What do you think about Susan?"]]
+[["How do you know Garret?"]]
+[["Do you know Henry?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Martha and Leonard {"position":"7008.000000000001,487.66666666666663","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Martha and Sara {"position":"7115.333333333333,375.9999999999999","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Messed up {"position":"7008.666666666666,379.33333333333326","size":"100,100"}
+"Really?" Skylar asks, "You think that they are *married?* He's obviously an elderly man, and she's a kid! How is it possible to mess up that badly? I put that answer as a joke. I didn't think you'd actually pick it."
+
+
+[[Reveal Ending|SERIOUSLY? ENDING]]
+
+
+:: Micheal {"position":"4694.333333333334,1951.666666666667","size":"100,100"}
+
+
+[["Mind if I sit here, Micheal?"]]
+"Can I have [[coins]] for a drink?"
+
+(link-goto: "Leave the person alone.", (history:)'s last)
+
+
+:: Micheal says no {"position":"4639.333333333334,2315","size":"100,100"}
+He grins at me. "Nope." He turns away with no other explanation.
+
+
+[["I should be going."|w table8]]
+
+
+:: Morning Glories {"position":"7626.333333333334,3408","size":"100,100"}
+(set: $inv to $inv + (a: "Morning Glories")) 
+
+My date loves the flowers!
+
+Now, let's go to the next flower wall to (link-goto: "pick", (history:)'s last) another flower for my date.
+
+
+:: Mystery {"position":"1433.9999999999998,238.33333333333337","size":"100,100"}
+"Mystery has suspense and plenty of clues on every page," the Librarian says, "I believe the book titled *Murder's Mistress* is still available."
+
+
+"Did you have another [[question|sections]]?"
+
+
+:: Mystery Book {"position":"3524.999999999999,222.50000000000006","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: Mystery Image {"position":"774.9999999999998,390.83333333333326","size":"100,100"}
+The picture is of a dark alleyway. There isn't much visible but a corpse, its head wrapped in white bandages. There is only a sliver of light touching it, and the picture is otherwise bathed in darkness.
+
+It's a chilling image.
+
+I [[look away|Main Aisle 2]].
+
+
+:: Mystery Section {"position":"1023.6666666666666,1584.1666666666665","size":"100,100"}
+(if: $inv contains "Mystery Book") [There are a few officers cleaning up the crime scene, and I can feel a sense of pride for closing the case.]
+(else-if: $inv contains "Mystery Book") [There are a few officers cleaning up the crime scene, and I can feel a sense of pride for closing the case.]
+(else:)[I look into the room, finding a scene straight out of a crime show.
+
+There is a group of individuals sitting in chairs along the bookshelves to the left.
+There are three people sitting with blankets in a corner to the right.
+And the center of the room is surrounded by police tape, with a sheet draped over a body.
+There are three police personal in the room as well, the closest looking like a detective.
+
+[[Walk over to the detective|Mystery Start]]]
+[[Main Aisle 2]] 
+
+
+:: Mystery Start {"position":"1025.666666666667,1702.5","size":"100,100"}
+The detective greets me with my name, which find odd. I read his badge, "Detective Steve," I say.
+"You finally got here. What took so long?" He asks.
+Before I can answer, he starts walking to the center of the room. I follow.
+
+"We have a murder on our hands, of a one Kate Bells. Five foot seven, blonde, and we're guessing about sixteen years old.
+"There are three witnesses and we've narrowed it down to five suspects. I'm sure you can piece it together." He sighs, "I'm at a loss, really."
+
+I look at him blankly.
+"You got this partner?"
+I nod slowly, "Yeah, I got this."
+"Great, let me know if you have any questions," he starts to walk away, "and feel free to ask Officer Nat and Officer James anything too. Their on this case with us."
+
+
+I walk to the [[Suspects]] 
+I walk to the [[Witnesses]] 
+I walk to the [[Crime Scene]] 
+
+I have a *suspect list* and a *witness list* to tell me things about the people.
+(set: $inv to $inv + (a: "Witness List"))
+(set: $inv to $inv + (a: "Suspect List"))
+
+
+
+:: Mystery Tip {"position":"1851.6666666666672,4.1666666666667425","size":"100,100"}
+He mutters to himself, running a hand down his face, "*Don't trust Bryce*. He may be a *witness*, but he's a habitual liar that doesn't care to help the police."
+
+
+Leave him [[alone|Chance for tips]].
+
+
+:: Nathan {"position":"7875,2078","size":"100,100"}
+"Hey," Nathan says.
+
+
+[["How do you know Leonard?"]]
+[["What do you think about Jeremy?"]]
+[["Do you know Dorothy?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Ned {"position":"8154.000000000002,4460","size":"100,100"}
+
+
+[["The food here is delicious, isn't it?"]]
+
+(link-goto: "Leave the couple alone.", (history:)'s last)
+
+
+:: Neil {"position":"2274.3333333333335,1888.8333333333335","size":"100,100"}
+I walk up to the suspect, "Where were you when the crime took place?"
+
+"I was going to the bathroom. Layla saw me walk in."
+
+
+(link-goto: "I nod to the suspect and step back.", (history:)'s last)
+
+
+:: Neil's the Killer {"position":"1393.9999999999998,1494.1666666666667","size":"100,100"}
+They let everyone else go, but bring Neil to the station.
+Later in the week, forensics gets the test back on the hair strands found at the crime scene.
+It matches.
+Neil killed Kate.
+
+"Well, this case is wrapped up," Detective Steve says, "Good job out there, partner. Couldn't have solved it without you. Oh, and here." He hands me the Mystery Book, "Keep this, okay? It could come in handy."
+
+
+I walk back to the [[entrance|Mystery Section]] of the Mystery Section.
+(set: $inv to $inv + (a: "Mystery Book")) 
+(set: $inv to $inv - (a: "Witness List"))
+(set: $inv to $inv - (a: "Suspect List"))
+
+
+:: No Going Back [donotshowinventory] {"position":"888.3333333333333,25.83333333333337","size":"100,100"}
+I walk out the doors of the library, seeing the sun and feeling a slight breeze blow past me.
+
+The doors shut behind me and I skip off, away from the library without a worry in the world.
+
+Yeah... I may not come back to it.
+
+
+[[Reveal Ending|PEACEFUL ENDING]]
+
+
+:: North Table {"position":"8252.666666666668,3599.666666666667","size":"100,100"}
+No one is sitting at this table.
+This table is near the shelves holding flowers.
+
+
+I walk to the [[Podium]].
+I walk to the [[East Table]].
+I walk to the [[Center Table]].
+(if: $inv contains "good gift, awesome gift") [I walk to the [[First Flower Wall]].]
+(else-if: $inv contains "good gift, awesome gift")[I walk to the [[First Flower Wall]].]
+(else:)[We need to go to the gifts first. Then we can look at flowers.]
+
+
+:: ON LEAVE ENDING {"position":"1719,1227.5","size":"100,100"}
+<h2>STUCK ENDING: On Leave</h2>
+
+Messing up on the job might mean you're working too hard.
+
+This ending is a 'stuck ending', which means it is one of many endings where the player is unable to leave the section they are in, let alone the library.
+These endings are only found within the six genre sections.
+
+
+There are six(6) total types of endings.
+
+
+:: Officer James {"position":"2014.3333333333335,2647.833333333333","size":"100,100"}
+"You have a question, Detective?" the officer asks.
+
+
+[[When did you arrive here, Officer James?]]
+[[What did you find, Officer James?]]
+[[Who do you think did it, Officer James?]]
+
+(link-goto: "Thank the officer and walk away.", (history:)'s last)
+
+
+:: Officer Nat {"position":"1768.3333333333335,2229.166666666667","size":"100,100"}
+"You have a question, Detective?" the officer asks.
+
+
+[[When did you arrive here, Officer Nat?]]
+[[What did you find, Officer Nat?]]
+[[Who do you think did it, Officer Nat?]]
+
+(link-goto: "Thank the officer and walk away.", (history:)'s last)
+
+
+:: PEACEFUL ENDING [donotshowinventory] {"position":"781.6666666666667,19.166666666666693","size":"100,100"}
+*PEACEFUL ENDING*
+
+This ending was achieved by leaving the library without checking out any books.
+There are many reasons why this was choosen.
+
+
+There are six(6) total types of endings.
+
+
+:: PITIFUL ENDING [donotshowinventory] {"position":"35.00000000000005,21.666666666666636","size":"100,100"}
+<h2>PITIFUL ENDING</h2>
+
+The restroom ended up with the following:
+-five stalls along the far wall, all the toilets full of fabric
+-four sinks to the left of the door
+-one big mirror on the left wall
+-two wide light strips in the center of the ceiling
+-a hand dryer between the sinks and the mirror
+-a drain in the center of the floor, bits of broccoli littering the floor
+-a small vent high up on the wall next to the stalls, open with a pool cue sticking out of it
+-the right wall is covered in sticky notes
+
+
+This ending was achieved by performing the correct sequence of actions within the restroom with items from the lost and found.
+
+That is literally the *only* way to get this ending.
+
+If you got it on the first try... congratulations.
+
+
+There are six(6) total types of endings.
+
+
+:: Pay for a drink {"position":"3539.333333333334,1788.3333333333335","size":"100,100"}
+The bartender takes my money. But instead of giving me a drink, he hands me a book.
+
+
+I walk back to the [[entrance|Western Section]] of the Fantasy Section.
+
+(set: $inv to $inv + (a: "Western Book"))] 
+
+
+:: Peonies {"position":"8470.666666666666,3173.9999999999995","size":"100,100"}
+(set: $inv to $inv + (a: "Peonies")) 
+
+My date loves the flowers!
+
+Now, let's go back to the Maitre'd to (link-goto: "conclude", (history:)'s last) the date.
+
+
+:: Please? {"position":"3313.0000000000005,1425.666666666667","size":"100,100"}
+
+
+
+[[Reveal Ending|ANGRY RORY ENDING]]
+
+
+:: Podium {"position":"7634.666666666667,3905.6666666666665","size":"100,100"}
+The maitre'd stands at the podium, checking over reservations for the rest of the night.
+
+(if: $inv contains "good gift" and "awesome gift" and "Admiration" and "They're the one!" and "music" and "food" and "morning glories" and "daffodils" and "peonies")[I talk to the [[Maitre'd]].]
+(else-if: $inv contains "good gift" and "awesome gift" and "Admiration" and "They're the one!" and "music" and "food" and "morning glories" and "daffodils" and "peonies")[I talk to the [[Maitre'd]].]
+(else:)[<do nothing>]
+
+(if: $inv contains "Romance Book")[I [[leave section|Romance Section]]]
+(else-if: $inv contains "Romance Book")[I [[leave section|Romance Section]]]
+(else:)[<do nothing>]
+
+I walk to the [[North Table]].
+I walk to the [[South Table]].
+I walk to the [[Center Table]].
+
+
+:: Pop {"position":"8434,3766.333333333334","size":"100,100"}
+"...It's not my favorite," my date mutters.
+
+(link-goto: "...On second thought-", (history:)'s last)
+
+
+:: Q1 {"position":"7215.666666666667,723.333333333333","size":"100,100"}
+"Who are twins?"
+
+
+[[Sara and Nathan]]
+[[Jeremy and Timothy|Q2]]
+[[Henry and Garret]]
+[[Leonard and Martha]]
+
+
+:: Q2 {"position":"7102.333333333334,723.333333333333","size":"100,100"}
+"Who are related as in-laws?"
+
+
+[[Susan and Garret|Q3]]
+[[Isabel and Nathan]]
+[[Timothy and Helen]]
+[[Martha and Sara]]
+
+
+:: Q3 {"position":"6997.333333333334,725","size":"100,100"}
+"Who are married to each other?"
+
+
+[[Isabel and Jeremy|Q4]]
+[[Martha and Leonard]]
+[[Dorothy and Nathan]]
+[[Garret and Sara|Messed up]]
+
+
+:: Q4 {"position":"6887.333333333334,720","size":"100,100"}
+"Who has only one parent present?"
+
+
+[[It's Nathan.]]
+[[It's Henry.]]
+[[It's Isabel.|Q5]]
+[[It's Helen.]]
+
+
+:: Q5 {"position":"6769,723.3333333333335","size":"100,100"}
+"Who is Nathan's cousin?"
+
+
+[[It is Leonard.]]
+[[It is Helen.|Q6]]
+[[It is Sara.]]
+[[It is Dorothy.]]
+
+
+:: Q6 {"position":"6640.666666666667,716.8333333333335","size":"100,100"}
+"Who is the aunt of Sara?"
+
+
+[[Sara's aunt is Martha.]]
+[[Sara's aunt is Susan.|All Correct]]
+[[Sara's aunt is Dorothy.]]
+[[Sara's aunt is Isabel.]]
+
+
+:: REFUSAL ENDING {"position":"5673.666666666667,4164.000000000001","size":"100,100"}
+<h2>DEATH ENDING: Refusal</h2>
+
+Telling a sorceress no isn't the best way to get on her good side. It's a one way trip to Painville.
+
+
+This ending is a 'death ending', which means it is one of many endings where the player is killed by an NPC because they took certain actions in a row, which they could avoided, but probably chose not to.
+These endings are only found within the six genre sections.
+
+
+There are six(6) total types of endings.
+
+
+:: REVENGE ENDING {"position":"2145.666666666667,1374.1666666666665","size":"100,100"}
+ <h2>DEATH ENDING: </h2>
+
+Apparently, Layla was the girlfriend of the killer. He was a *little* mad you arrested her.
+
+
+This ending is a 'death ending', which means it is one of many endings where the player is killed by an NPC because they took certain actions in a row, which they could have avoided, but probably chose not to.
+These endings are only found within the six genre sections.
+
+
+There are six(6) total types of endings.
+
+
+:: ROMANCE COMPLETION ENDING [donotshowinventory] {"position":"2498.3333333333335,109.16666666666669","size":"100,100"}
+<h2>COMPLETION ENDING: Romance</h2>
+
+This ending was achieved by successfully getting through the Romance section of the Library, which gives the player a book, and then checking out the book at the Librarian.
+This is the only way to get this ending, but there isn't one strict route the player must take to reach it within the section.
+
+
+There are six(6) total types of endings.
+
+
+:: Restroom {"position":"990,240.83333333333337","size":"100,100"}
+The restroom has the following:
+-five stalls along the far wall
+-four sinks to the left of the door
+-one big mirror on the left wall
+-two wide light strips in the center of the ceiling
+-a hand dryer between the sinks and the mirror
+-a drain in the center of the floor
+-a small vent high up on the wall next to the stalls
+-the right wall is blank
+
+
+I look in the [[stalls]].
+I look at the [[sinks]].
+I look at the [[mirror]].
+I stare at the [[lights]].
+I walk [[out|Main Aisle 1]].
+
+
+:: Rock {"position":"8508.333333333332,3880.3333333333335","size":"100,100"}
+My date stares at me like I'm kidding.
+
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "...On second thought-", (history:)'s last)
+
+
+:: Romance {"position":"1642.3333333333333,243.33333333333343","size":"100,100"}
+"Romance is about passion and love, but not without it's trials," the Librarian says, "I believe the book titled *Reckless Reasoning* is still available."
+
+
+"Did you have another [[question|sections]]?"
+
+
+:: Romance Book {"position":"3098.333333333333,218.33333333333334","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: Romance Section {"position":"7281.000000000002,4009.5000000000005","size":"100,100"}
+(if: $inv contains "Romance Book") [The room is bustling with people. My 'date' is gone, but I wouldn't be able to get a table all on my own.]
+(else-if: $inv contains "Romance Book")[The room is bustling with people. My 'date' is gone, but I wouldn't be able to get a table all on my own.]
+(else:)[The room is set up like a study room, yet the tables are draped with white cloth with candles in the centers. There are a few patrons, but it's mostly empty. There are glass containers at a far wall, while another section of shelving is stuffed with different flowers.
+There is a podium near the door with a Maitre'd waiting for more guests.
+
+[[I walk up to the Maitre'd.|Romance Start]]]
+I skirt along the wall and walk into the [[Historical Section]].
+I skirt along the wall and walk into the [[Fantasy Section]].
+
+
+:: Romance Start {"position":"7406,3992.8333333333335","size":"100,100"}
+The Maitre'd looks up, "Hello. Welcome to the (restraunt name). What is your name?"
+
+I tell him, but he looks confused as he looks over his reservation list.
+
+"I am sorry. Your name must not be on here. Is there another name your reservation is under? Perhaps, someone that is here before you?"
+
+I am here with... [[Alex]]?
+
+
+:: Romance Tip {"position":"1948.666666666667,107.50000000000007","size":"100,100"}
+He holds up the book cover for me to see, “My wife loves these types of books. You know, I've learned that *morning glories, daffodils, and peonies* are romantic.”
+
+
+I ask him about his favorite [[section|Sci Fi Tip]].
+Leave him [[alone|Chance for tips]].
+
+
+:: Romantic Image {"position":"1329,550","size":"100,100"}
+The picture is of three roses laying over a wooden surface, with soft white lights around the upper corners. The roses are all different colors- yellow, pink, and red. The flowers are full of detail, while the area around them is more hazy.
+
+I [[look away|Main Room]].
+
+
+:: Rory {"position":"3533.0000000000005,1349.0000000000002","size":"100,100"}
+
+
+
+[["Mind if I sit here, Rory?"]]
+"Can I have [[coins]] for a drink?"
+
+(link-goto: "Leave the person alone.", (history:)'s last)
+
+
+:: Roses {"position":"7736.333333333335,3409.666666666667","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: SCI-FI COMPLETION ENDING [donotshowinventory] {"position":"2711.6666666666665,106.66666666666671","size":"100,100"}
+<h2>COMPLETION ENDING: Science Fiction</h2>
+
+This ending was achieved by successfully getting through the Science Fiction section of the Library, which gives the player a book, and then checking out the book at the Librarian.
+This is the only way to get this ending, but there isn't one strict route the player must take to reach it within the section.
+
+
+There are six(6) total types of endings.
+
+
+:: SERIOUSLY? ENDING {"position":"7015.333333333333,245.9999999999999","size":"100,100"}
+<h2>STUCK ENDING: Seriously?</h2>
+
+I thought this would be obvious, but okay...
+
+
+This ending is a 'stuck ending', which means it is one of many endings where the player is unable to leave the section they are in, let alone the library.
+These endings are only found within the six genre sections.
+
+
+There are six(6) total types of endings.
+
+
+
+:: Sam {"position":"3892.666666666667,1905.0000000000005","size":"100,100"}
+
+
+[["Mind if I sit here, Sam?"]]
+"Can I have [[coins]] for a drink?"
+
+(link-goto: "Leave the person alone.", (history:)'s last)
+
+
+:: Sara {"position":"8185.333333333334,993","size":"100,100"}
+"Hi," Sara says shyly.
+
+
+[["What do you think about Nathan?"]]
+[["How do you know Susan?"]]
+[["Do you know Timothy?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Sara and Nathan {"position":"7209.333333333334,609.9999999999997","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Sara's aunt is Dorothy. {"position":"6636,603.3333333333335","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Sara's aunt is Isabel. {"position":"6670.333333333333,357.66666666666674","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Sara's aunt is Martha. {"position":"6659.666666666667,487.8333333333335","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Sci Fi Tip {"position":"1847.3333333333326,109.16666666666666","size":"100,100"}
+He leans back in the chair, almost tipping over, “I wish I could go in the Science Fiction section, but it's under construction right now...”
+
+
+I ask him what he's [[reading|Romance Tip]].
+Leave him [[alone|Chance for tips]].
+
+
+:: Sci-Fi Section {"position":"431,4303.5","size":"100,100"}
+(if: $inv contains "Science Fiction Book") [<do nothing>]
+(else-if: $inv contains "Science Fiction Book")[<do nothing>]
+(else:)[I go look at the [[spaceship|Sci-Fi Start]].]
+[[Main Aisle|Main Aisle 1]] 
+
+
+:: Sci-Fi Start {"position":"536,4303.5","size":"100,100"}
+
+
+
+[[Sure, I'll help.|s open]]
+
+
+:: SciFi Image {"position":"883.3333333333333,137.50000000000003","size":"100,100"}
+The painting is of a field of large orange and purple flowers, a blue sky above them tinged with yellow, and a spaceship in the upper right corner, perched on a hill and ready for blast off.
+I'd think the spaceship feels out of place, but it doesn't.
+Probably because amid the flowers, I can see strange looking people. They only vaguely resemble humans, playing within or picking the flowers.
+
+I [[look away|Main Aisle 1]].
+
+
+:: Science Fiction {"position":"1538,135.83333333333334","size":"100,100"}
+"Science Fiction takes the modern advancements, then takes it a step further, just out of possiblility, but not too far from wonder," the Librarian says, "I believe the book titled *Some Other Space* is still available."
+
+
+"Did you have another [[question|sections]]?"
+
+
+:: Science Fiction Book {"position":"3851.6666666666674,224.16666666666669","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: Scott {"position":"4119.666666666667,1342.3333333333333","size":"100,100"}
+
+
+[["Mind if I sit here, Scott?"]]
+"Can I have [[coins]] for a drink?"
+
+(link-goto: "Leave the person alone.", (history:)'s last)
+
+
+:: Scroll List {"position":"5620.333333333334,3864.000000000001","size":"100,100"}
+"This is a list of the scroll colors you need to find..."
+
+Red
+Blue
+Brown
+Green
+Black
+Yellow
+
+(link-goto: "I give the list back.", (history:)'s last)
+
+
+
+:: Second Flower Wall {"position":"8086.666666666668,3455.6666666666665","size":"100,100"}
+(if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[Reveal Ending|WORK ENDING]]]
+(else-if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[|Reveal Ending|WORK ENDING]]]
+(else:)[We stop at a wall with flower bouquets poking out of the shelves.
+
+
+[[Sunflowers]]
+[[Magnolias]]
+[[Lotuses]]
+[[Daffodils]]
+[[Hibiscuses]]
+[[Daisies]]
+[[Tiger Lilies]]
+
+(if: $inv contains "daffodils")[flower wall to the [[right|Third Flower Wall]]]
+(else-if: $inv contains "daffodils")[flower wall to the [[right|Third Flower Wall]]]
+(else:)[<do nothing>]
+flower wall to the [[left|First Flower Wall]]]
+
+
+:: Second Gift Table {"position":"8918.666666666668,4029.6666666666665","size":"100,100"}
+(if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[Reveal Ending|WORK ENDING]]]
+(else-if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[|Reveal Ending|WORK ENDING]]]
+(else:)[We stop at a table with a glass box on top. There are various items inside.
+
+I decide to get my date one of the following:
+[[A videogame]]
+[[A Free hugs coupon book]]
+[[A printer]]
+[[a foot tall robot]]
+
+
+I walk to the [[Center Table]].]
+
+
+:: Selina {"position":"7807.333333333334,4445","size":"100,100"}
+
+
+
+[["How's your date going?"]]
+
+(link-goto: "Leave the couple alone.", (history:)'s last)
+
+
+:: Skylar Mirtle {"position":"7083.333333333334,900.333333333333","size":"100,100"}
+
+
+
+I know the [[answers|Q1]].
+
+
+:: Snapdragons {"position":"8586,3067.333333333333","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Sorceress {"position":"5503.666666666667,3867.333333333335","size":"100,100"}
+The Sorceress looks up, "Oh, hello. You must be my new assistant."
+
+"I think there has been some mistake-"
+
+"Thank goodness. My gryffin ran all around in here and separated all my work. He's outside now, so he won't worry me anymore. So, I need you to find six scrolls for me."
+
+I stare at her.
+
+"I have the list of what scrolls you need, so you will need to check in with me. I hope you have a good memory, or this will take forever."
+
+[[Scroll List]]
+[[Check Scroll]]
+
+[["I don't want to help you."]]
+
+
+:: South Table {"position":"7965.666666666668,4345","size":"100,100"}
+There are two people sitting at this table, Ned and Selina.
+Ned is busy eating his meal, looking at Selina lovingly every few moments.
+Selina is admiring a flower that Ned got her.
+
+I talk to [[Ned]].
+I talk to [[Selina]].
+
+
+I walk to the [[Podium]].
+I walk to the [[Center Table]].
+
+
+:: Steak and Fries {"position":"8038.666666666667,3888.6666666666674","size":"100,100"}
+My date stares at me like I'm kidding.
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "...Actually we'll order-", (history:)'s last)
+
+
+:: Sunflowers {"position":"8181.666666666668,3302.333333333333","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Susan {"position":"8434.333333333334,1494.3333333333335","size":"100,100"}
+"Hello," Susan says politely.
+
+
+
+[["How do you know Sara?"]]
+[["What do you think about Dorothy?"]]
+[["Do you know Jeremy?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Suspect List {"position":"3526.6666666666665,325.8333333333334","size":"100,100"}
+-These are the suspects in the murder of Kate Bells case:
+1. Joe, a 18 year old boy. Blond hair, has gloves poking out of his back pockets, has large sized feet.
+2. Neil, a 27 year old man. Brown hair, one hand tucked into his pocket, has medium sized feet.
+3. Butch, a 45 year old man. Black hair, large hands, has large sized feet.
+4. Layla, a 24 year old woman. Reddish brown hair, wears thin white gloves, has medium sized feet.
+5. Carter, a 21 year old woman. Blond-brown hair, wears a watch, has small feet.
+
+
+:: Suspects {"position":"2171,2027.166666666667","size":"100,100"}
+There are five suspects sitting in chairs.
+I can only ask them for their alibi.
+
+
+I talk to [[Joe]].
+I talk to [[Neil]].
+I talk to [[Carter]].
+I talk to [[Layla]].
+I talk to [[Butch]].
+
+I walk to [[Detective Steve]].
+I walk to the [[Crime Scene]].
+I walk to the [[Witnesses]].
+
+I remember I have a list describing each suspect's information in my pocket.
+
+
+:: Tantrum {"position":"1645.0000000000002,345.8333333333334","size":"100,100"}
+The little girl starts screaming and the woman comes up worried. I [[leave|Chance for tips]] quickly, as I’m the cause of the ruckus.
+
+
+:: Teddy Bear {"position":"9125.333333333334,3523.333333333333","size":"100,100"}
+"How did you know!" Alex squeals, "I've always wanted a teddy bear!"
+
+
+(set: $inv to $inv + (a: "good gift")) 
+
+(link-goto: "Purchase the gift.", (history:)'s last)
+
+
+:: Third Flower Wall {"position":"8473.000000000002,3289","size":"100,100"}
+(if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[Reveal Ending|WORK ENDING]]]
+(else-if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[|Reveal Ending|WORK ENDING]]]
+(else:)[We stop at a wall with flower bouquets poking out of the shelves.
+
+
+[[Lilacs]]
+[[Peonies]]
+[[Lavenders]]
+[[Snapdragons]]
+[[Amaryllises]]
+[[Hydrangeas]]
+[[Lily of the Valleys]]
+
+
+(if: $inv contains "peonies")[flower wall to the [[left|Second Flower Wall]]]
+(else-if: $inv contains "peonies")[flower wall to the [[left|Second Flower Wall]]]
+(else:)[<do nothing>]]
+
+
+:: Tiger Lilies {"position":"8065.000000000002,3059","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Timothy {"position":"7462.000000000001,884.9999999999999","size":"100,100"}
+"Hello," Timothy states.
+
+[["How do you know Helen?"]]
+[["What do you think about Garret?"]]
+[["Do you know Martha?"]]
+
+(link-goto: "Walk away.", (history:)'s last)
+
+
+:: Timothy and Helen {"position":"7119.666666666667,489.3333333333329","size":"100,100"}
+"That doesn't sound right..." Skylar says, "Why don't you talk to them a little more, then try again."
+
+[[I walk away.|h open]]
+
+
+:: Tulips {"position":"7639.666666666668,3188","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the flowers back.
+
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: Under Construction {"position":"290.00000000000006,1049.8333333333333","size":"100,100"}
+The doors are closed and there is a sign on it.
+
+*"I'm sorry, but the Science Fiction Section is closed due to a space ship crashing into the wall. Please be patient. This section should be open within the next week."*
+
+
+(link-goto: "Well, I guess I'll have to go elsewhere.", (history:)'s last)
+
+
+
+:: WESTERN COMPLETION ENDING [donotshowinventory] {"position":"2394.9999999999995,107.5","size":"100,100"}
+<h2>COMPLETION ENDING: Western</h2>
+
+This ending was achieved by successfully getting through the Western section of the Library, which gives the player a book, and then checking out the book at the Librarian.
+This is the only way to get this ending, but there isn't one strict route the player must take to reach it within the section.
+
+
+There are six(6) total types of endings.
+
+
+:: WORK ENDING {"position":"8579.333333333332,4571.666666666667","size":"100,100"}
+
+
+
+Because you couldn't pay the bill, the restraunt hired you to work in the kitchen. But, due to the small wage you earn, it will be a long time until you are allowed to leave debt free.
+
+
+:: WRONG COLORS ENDING {"position":"5915.333333333333,3884.000000000001","size":"100,100"}
+<h2>DEATH ENDING: Wrong Colors</h2>
+
+You found colorful scrolls! Just... you know, all the *wrong* ones. And, because of it, you didn't live to see the outside of this section.
+
+
+This ending is a 'death ending', which means it is one of many endings where the player is killed by an NPC because they took certain actions in a row, which they could avoided, but probably chose not to.
+These endings are only found within the six genre sections.
+
+
+There are six(6) total types of endings.
+
+
+
+:: Waffle and Ice-cream {"position":"7913.666666666667,3894.333333333334","size":"100,100"}
+
+
+(set: $inv to $inv + (a: "Food")) 
+(link-goto: "I smile at my date.", (history:)'s last)
+
+
+:: Western {"position":"1433.9999999999998,340.8333333333334","size":"100,100"}
+"Western stories are set in the West, with cowboys, horses, and dusty towns,"
+ the Librarian says, "I believe the book titled *Two Cowboys at Dawn* is still available."
+
+
+"Did you have another [[question|sections]]?"
+
+
+:: Western Book {"position":"4089.0000000000005,0","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: Western Image {"position":"981.6666666666666,390.83333333333326","size":"100,100"}
+The picture is of a dusty town. The sky is pale blue and there are a few tumble weeds in the distance. There isn't a single person in the picture, except for a lone woman in a long dress sitting in a rocking chair outside what looks like a saloon.
+
+I [[look away|Main Aisle 2]].
+
+
+:: Western Section {"position":"3131.3333333333335,1010.6666666666667","size":"100,100"}
+(if: $inv contains "Western Book") [A few people are still sitting at the tables, but the Bartender is getting ready to close for the morning.]
+(else-if: $inv contains "Western Book")[A few people are still sitting at the tables, but the Bartender is getting ready to close for the morning.]
+(else:)[The room is set up like a library, but there is a counter in one corner with shelves of bottles behind it. There are people sitting at the tables each with a drink or talking. A bartender is behind the counter, wiping the counter down.
+
+
+I decide to [[get a drink|Western Start]].]
+
+[[Main Aisle 2]] 
+
+
+:: Western Start {"position":"3274.0000000000005,974.1666666666665","size":"100,100"}
+The moment I walk into the room, I realize I don't have the right currency to pay for a drink.
+
+I look around, figuring that I could ask someone to pay for my drink.
+But I'll have to be [[careful|w table1]].
+
+
+:: Western Tip {"position":"1848.9999999999995,320.83333333333337","size":"100,100"}
+The little girl thinks hard on the question, her mouth making a firm line. She then looks up, "Do not talk to *Rory*.”
+
+
+I ask her what she's doing in the library [[alone|Fantasy Tip]].
+I leave her [[alone|Chance for tips]].
+
+
+:: What did you find, Officer James? {"position":"2147.6666666666665,2707.8333333333335","size":"100,100"}
+"I noticed the glasses. Whatever happened, Ms. Bells must have put up a fight."
+
+
+(link-goto: "Good to know.", (history:)'s last)
+
+
+:: What did you find, Officer Nat? {"position":"1898.3333333333335,2254.1666666666665","size":"100,100"}
+"I saw the gun right away. It was put in a bag the moment one was available."
+
+
+(link-goto: "Good to know.", (history:)'s last)
+
+
+:: What did you find, partner? {"position":"1718.6666666666663,1935.5","size":"100,100"}
+"We almost missed the hairs on her jacket, which was lying on the ground. It must have been pulled off her, but not before the killer left some DNA. We'll get it to the lab as soon as we wrap this up."
+
+
+(link-goto: "Good to know.", (history:)'s last)
+
+
+:: When did you arrive here, Officer James? {"position":"2031,2524.4999999999995","size":"100,100"}
+"I was with the paramedics when they came in. Nat was already at the scene, keeping people back, except for those giving first responder assistance."
+
+
+(link-goto: "Good to know.", (history:)'s last)
+
+
+:: When did you arrive here, Officer Nat? {"position":"1888.3333333333335,2139.166666666667","size":"100,100"}
+"I was the first on the scene. I secured the area for when others would arrive. By then, the paramedics had called time of death."
+
+
+(link-goto: "Good to know.", (history:)'s last)
+
+
+:: When did you arrive here, partner? {"position":"1568.6666666666663,1935.5","size":"100,100"}
+"I was the last on the scene. The other officers were closer to the library than I was."
+
+
+(link-goto: "Good to know.", (history:)'s last)
+
+
+:: Who do you think did it, Officer James? {"position":"2156,2567.833333333333","size":"100,100"}
+"It could be Joe. He fits most of the evidence we've gathered. Though... the hair is a different color. Maybe a wig?"
+
+
+(link-goto: "Good to know.", (history:)'s last)
+
+
+:: Who do you think did it, Officer Nat? {"position":"1890.0000000000002,2369.166666666667","size":"100,100"}
+"I think it was Carter. Something about her alibi just doesn't add up."
+
+
+(link-goto: "Good to know.", (history:)'s last)
+
+
+:: Who do you think did it, partner? {"position":"1868.6666666666663,1935.5","size":"100,100"}
+"I haven't a clue. On gut instinct, I'd say Layla, but Butch is suspicious, too."
+
+
+(link-goto: "Good to know.", (history:)'s last)
+
+
+:: Wilkes {"position":"8898.333333333336,3282.666666666667","size":"100,100"}
+
+
+[["Hi-"]]
+(link-goto: "He doesn't look friendly.", (history:)'s last)
+
+
+:: Witness List {"position":"3631.666666666666,224.1666666666667","size":"100,100"}
+-This is a list of who saw the murder of Kate Bells:
+1. Bryce, a 23 year old man. Knew Kate a little. Appears the most affected by the situation.
+2. Emily, a 16 year old girl. Didn't know Kate. Was here with her mom.
+3. Heather, a 20 year old woman. Knew Kate personally and was closest to the event.
+
+
+:: Witnesses {"position":"1557.6666666666667,2446.833333333333","size":"100,100"}
+The three witnesses are all sitting, everyone has a blanket around them, and no one is sitting right next to another person.
+
+I talk to [[Bryce]]
+I talk to [[Emily]]
+I talk to [[Heather]]
+I talk to [[Officer James]].
+
+I walk to the [[Crime Scene]].
+I walk to the [[Suspects]].
+
+I remember I have a list describing each witness' information in my pocket.
+
+
+:: Yes? {"position":"3772.333333333334,713.3333333333334","size":"100,100"}
+I get kicked out of the bar.
+
+"Bring coins next time!" The bartender says.
+
+With no where else to go, I sit at the entrance.
+
+[[Reveal Ending|BROKE ENDING]]
+
+
+:: a foot tall robot {"position":"9262,4022.9999999999995","size":"100,100"}
+My date stares at me like I'm kidding.
+I put the gift back.
+(if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else-if: $inv contains "Dislike")[(set: $inv to $inv + (a: "Not going to work out."))]
+(else:)[(set: $inv to $inv + (a: "Dislike"))]
+
+(link-goto: "I sigh.", (history:)'s last)
+
+
+:: a strange blue alien {"position":"1630.3333333333335,3274.333333333334","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: a strange pink alien {"position":"689.0000000000001,3179.333333333333","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: awesome gift {"position":"3303.333333333333,219.16666666666669","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: black {"position":"5121.666666666667,3627","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has a black ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "black scroll"))
+
+
+:: black scroll {"position":"3541.666666666667,0","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: blue {"position":"5186.666666666666,4344.666666666668","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has a blue ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "blue scroll"))
+
+
+:: blue box {"position":"4160.666666666666,2941.333333333333","size":"100,100"}
+I found the fantasy book!
+
+
+I walk back to the [[entrance|Fantasy Section]] of the Fantasy Section.
+(set: $inv to $inv + (a: "Fantasy Book"))
+
+
+:: blue scroll {"position":"3438.333333333334,0.8333333333332007","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: brown {"position":"4434.999999999999,3491","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has a brown ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "brown scroll"))
+
+
+:: brown scroll {"position":"3438.333333333334,101.66666666666663","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: candy {"position":"1748.9999999999993,419.16666666666674","size":"100,100"}
+The little girl takes the candy hesitantly, then plops it in her mouth with a squeal.
+
+
+I ask her about her favorite [[section|Western Tip]].
+I ask her what she's doing in the library [[alone|Fantasy Tip]].
+I leave her [[alone|Chance for tips]].
+
+
+:: carjack {"position":"329.0000000000001,3282.666666666667","size":"100,100"}
+
+
+(set: $inv to $inv + (a: "s carjack")) 
+
+(link-goto: "look at other tools", (history:)'s last)
+
+
+:: check out {"position":"2075.6666666666665,4.166666666666686","size":"100,100"}
+"Which genre is the book from?"
+
+[[Fantasy|CompleteF]]
+[[Historical Fiction|CompleteH]]
+[[Western|CompleteW]]
+[[Romance|CompleteR]]
+[[Mystery|CompleteM]]
+[[Science Fiction|CompleteS]]
+[[All of them|CompleteA]]
+
+[[Nevermind, I don't have a book|Main Room]].
+
+
+:: choosing a box {"position":"4271,3062.333333333334","size":"100,100"}
+There are three chests on the table. Each has a different colored leather binding them together. One is Blue. The next is red. And the final box is green.
+
+(if: $inv contains "Key for Chests")[I open the [[blue box]].
+I open the [[red box]].
+I open the [[green box]].]
+(else-if: $inv contains " ")[I open the [[blue box]].
+I open the [[red box]].
+I open the [[green box]].]
+(else:)[The chests are locked. I need a key from the Sorceress.]
+
+
+:: coat {"position":"1418.3333333333335,2297.5","size":"100,100"}
+I lean over the large evidence bag, which holds Kate's coat.
+
+Written on the bag is a note, 'Found stray brown hairs on outside of coat, send to forensics.'
+
+"Detective Steve said Kate was blonde," I say aloud.
+
+
+(link-goto: "Interesting...", (history:)'s last)
+
+
+:: coins {"position":"3924.0000000000005,655","size":"100,100"}
+"Are you really asking a stranger to buy you a drink?" they ask.
+
+[[Yes?]]
+(link-goto: "No.", (history:)'s last)
+
+
+:: crowbar {"position":"242.33333333333346,3660.666666666667","size":"100,100"}
+
+
+(set: $inv to $inv + (a: "s crowbar")) 
+
+(link-goto: "look at other tools", (history:)'s last)
+
+
+:: daffodils {"position":"3305.000000000001,320.83333333333337","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: f open {"position":"4381,3064.5","size":"100,100"}
+There are three chests on a table in the middle of the space.
+
+(if: $inv contains "fantasy key") [[[Consider chests|choosing a box]]]
+(else-if: $inv contains "fantasy key")[[[Consider chests|choosing a box]]]
+(else:)[<do nothing>]
+
+
+I walk to the [[north|f spot6]].
+I walk to the [[northeast|f spot5]].
+I walk to the [[east|f spot1]].
+
+
+:: f spot1 {"position":"4595.333333333333,2961.666666666668","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+There are no scrolls on these bookshelves.
+
+
+I walk to the [[west|f open]].
+I walk to the [[east|f spot2]].
+
+
+:: f spot10 {"position":"5213.666666666667,3919","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+There are no scrolls on these bookshelves.
+
+
+I walk to the [[south|f spot8]].
+I walk to the [[east|f spot9]].
+
+
+:: f spot11 {"position":"4579.666666666668,3815.333333333334","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "gray scroll")[<do nothing>]
+(else-if: $inv contains "gray scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|gray]]]
+
+
+I walk to the [[north|f spot15]].
+I walk to the [[southwest|f spot12]].
+I walk to the [[northwest|f spot13]].
+
+
+:: f spot12 {"position":"4353.666666666666,3659","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "orange scroll")[<do nothing>]
+(else-if: $inv contains "orange scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|orange]]]
+
+
+I walk to the [[east|f spot11]].
+
+
+:: f spot13 {"position":"4359.666666666666,4056","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "purple scroll")[<do nothing>]
+(else-if: $inv contains "purple scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|purple]]]
+
+
+I walk to the [[east|f spot11]]
+
+
+:: f spot14 {"position":"5186.666666666666,4194.666666666668","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "blue scroll")[<do nothing>]
+(else-if: $inv contains "blue scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|blue]]]
+
+
+I walk to the [[west|f spot15]].
+I walk to the [[south|f spot9]].
+
+
+:: f spot15 {"position":"4894.333333333333,3972.333333333334","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+There are no scrolls on these bookshelves.
+
+
+I walk to the [[west|f spot16]].
+I walk to the [[east|f spot14]].
+I walk to the [[south|f spot11]].
+
+
+:: f spot16 {"position":"4711.333333333333,4198.666666666666","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "yellow scroll")[<do nothing>]
+(else-if: $inv contains "yellow scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|yellow]]]
+
+
+I walk to the [[east|f spot15]].
+
+
+:: f spot2 {"position":"4901.333333333332,2912.666666666666","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "green scroll")[<do nothing>]
+(else-if: $inv contains "green scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|green]]]
+
+
+I walk to the [[west|f spot1]].
+I walk to the [[north|f spot3]], walking around the end of a bookshelf.
+
+
+:: f spot3 {"position":"5042.333333333333,3146.333333333334","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+There are no scrolls on these bookshelves.
+
+
+I walk to the [[south|f spot2]].
+I walk to the [[west|f spot4]].
+I walk to the [[north|f spot8]].
+
+
+:: f spot4 {"position":"4817.333333333335,3160.666666666668","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "pink scroll")[<do nothing>]
+(else-if: $inv contains "pink scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|pink]]]
+
+
+I walk to the [[east|f spot3]].
+I walk to the [[west|f spot5]].
+I walk to the [[north|f spot7]].
+
+
+:: f spot5 {"position":"4571.666666666666,3184.333333333334","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+There are no scrolls on these bookshelves.
+
+
+I walk to the [[southeast|f open]].
+I walk to the [[east|f spot4]].
+
+
+:: f spot6 {"position":"4422.999999999999,3305","size":"100,100"}
+There is a spiral staircase behind me. There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "brown scroll")[<do nothing>]
+(else-if: $inv contains "brown scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|brown]]]
+
+
+I walk to the [[south|f open]].
+I walk to the [[east|f spot7]].
+
+
+:: f spot7 {"position":"4783.666666666667,3600.333333333334","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "red scroll")[<do nothing>]
+(else-if: $inv contains "red scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|red]]]
+
+
+I walk to the [[west|f spot6]].
+I walk to the [[south|f spot4]].
+I walk to the [[east|f spot8]].
+I walk to the [[north|f spot11]].
+
+
+:: f spot8 {"position":"5121.666666666667,3477","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+
+(if: $inv contains "black scroll")[<do nothing>]
+(else-if: $inv contains "black scroll")[<do nothing>]
+(else:)[There's a scroll sticking out of the bookshelf!
+[[Pick up scroll.|black]]]
+
+
+I walk to the [[south|f spot3]].
+I walk to the tables to the [[north|f spot9]].
+I walk to the bookshelves to the [[north|f spot10]].
+I walk to the [[west|f spot7]].
+
+
+:: f spot9 {"position":"5380.333333333334,3879.0000000000014","size":"100,100"}
+There are aisles of bookshelves covered in moss in this room. The ceiling is covered in leaves and branches, little light orbs poking through.
+There are 3 chairs almost disappearing into the mossy wood behind them. 
+
+There is a woman in a robe that changes colors and floppy hat standing between two tables, mulling over a list.
+
+
+Talk to the [[Sorceress]].
+I walk to the [[north|f spot14]].
+I walk to the [[south|f spot8]].
+I walk to the [[west|f spot10]].
+
+
+:: favorite {"position":"1540.0000000000002,342.5000000000001","size":"100,100"}
+"Oh," she says, chuckling, "It's hard to choose. I don't usually leave the main room, sadly. I stay here and make sure people have the assistance they need."
+
+I nod, feeling like she changed the subject.
+
+"Besides, I'm afraid I'd never find my way out," she sighs. "Libraries are curious places. And this one is hardly an exception."
+
+I stare at the Librarian with confusion.
+
+"Did you have another [[question|sections]]?"
+
+
+:: five dollars {"position":"3215.6666666666665,0","size":"100,100"}
+-A neatly creased bill, folded in half in my pocket.
+
+
+:: food {"position":"3096.6666666666665,424.16666666666674","size":"100,100"}
+As yes, delicious waffles and ice-cream. It's someone every restaurant should serve on Valentine's Day. Or every day, really.
+
+
+:: footprints {"position":"1275,2300","size":"100,100"}
+There are footprints marked with flags leading away from the covered body.
+
+I crouch down to look at them.
+
+"These are fairly big shoes," I note, "but the footprints are fairly close together."
+
+
+(link-goto: "Interesting...", (history:)'s last)
+
+
+:: getting card {"position":"1316.6666666666667,24.166666666666764","size":"100,100"}
+I pay for a library card, using my five dollars.
+
+The Librarian hands me the small piece of plastic.
+
+"This card will allow you to check out books only at the Enigma Reiter Library," she says.
+
+I talk to the (link-goto: "Librarian", (history:)'s last).
+
+(set: $inv to $inv + (a: "library card")) 
+(set: $inv to $inv - (a: "five dollars")) 
+
+
+:: gold coins {"position":"4088.3333333333335,100.8333333333334","size":"100,100"}
+-shiny gold coins that are used only in the Western Section.
+
+
+:: good gift {"position":"3201.666666666666,218.33333333333331","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: gray {"position":"4579.666666666668,3965.333333333334","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has a gray ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "gray scroll"))
+
+
+:: gray scroll {"position":"3850,0.8333333333333712","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: green {"position":"5114.666666666665,2904.333333333333","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has a green ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "green scroll"))
+
+
+:: green box {"position":"4162.666666666667,3160.333333333334","size":"100,100"}
+THIS BOX IS FULL OF COBWEBS!!
+
+
+[[Guess again.|choosing a box]]
+
+
+:: green scroll {"position":"3541.6666666666674,101.66666666666666","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: gun {"position":"1415.0000000000002,2154.1666666666665","size":"100,100"}
+After inspecting the gun used, I read the notes placed on the bag it's in.
+
+"No fingerprints found," I read.
+
+(link-goto: "Interesting...", (history:)'s last)
+
+
+
+:: h open {"position":"6970,900.3333333333333","size":"100,100"}
+
+
+I talk to [[Skylar Mirtle]].
+
+[[north|h table1]]
+[[east|h table5]]
+
+
+:: h table1 {"position":"7597.333333333334,791.3333333333333","size":"100,100"}
+This table has two people sitting at it, Timothy and Dorothy.
+Dorothy is a young woman wearing a floral dress.
+Timothy is a middle aged man wearing a button up shirt and a leather jacket.
+
+I talk to [[Timothy]].
+I talk to [[Dorothy]].
+
+I walk to the [[north|h table2]].
+I walk to the [[south|h open]].
+I walk to the [[east|h table4]].
+
+
+:: h table2 {"position":"8260.333333333334,843","size":"100,100"}
+This table has two people sitting at it, Sara and Helen.
+Helen is a teen girl wearing a green t-shirt.
+Sara is a young girl wearing a red blouse.
+
+I talk to [[Sara]].
+I talk to [[Helen]].
+
+
+I walk to the [[south|h table1]].
+I walk to the [[east|h table3]].
+
+
+:: h table3 {"position":"8509.333333333334,1344.3333333333335","size":"100,100"}
+This table has two people sitting at it, Susan and Martha.
+Martha is a elderly woman wearing a long sleeved dress.
+Susan is a middle aged woman wearing a white polo shirt.
+
+I talk to [[Susan]].
+I talk to [[Martha]].
+
+
+I walk to the [[west|h table2]].
+I walk to the [[south|h table4]].
+I walk to the [[east|h table8]].
+
+
+:: h table4 {"position":"7742.000000000001,1278.3333333333335","size":"100,100"}
+This table has one person sitting at it, Henry.
+Henry is a young man wearing a striped sweatshirt.
+
+I talk to [[Henry]].
+
+
+I walk to the [[north|h table3]].
+I walk to the [[west|h table1]].
+I walk to the [[south|h table5]].
+I walk to the [[east|h table7]].
+
+
+:: h table5 {"position":"7083.333333333334,1231","size":"100,100"}
+This table has one person sitting at it, Garret.
+Garret is an elderly man wearing a plaid button up and a brimmed hat.
+
+
+I talk to [[Garret]].
+
+
+I walk to the [[north|h table4]].
+I walk to the [[west|h open]].
+I walk to the [[east|h table6]].
+
+
+:: h table6 {"position":"7096.000000000001,1923.3333333333335","size":"100,100"}
+This table has one person sitting at it, Leonard.
+Leonard is a middle aged man wearing a orange tank top with a scar along his forearm.
+
+I talk to [[Leonard]].
+
+
+I walk to the [[north|h table7]].
+I walk to the [[west|h table5]].
+
+
+:: h table7 {"position":"7800,1928","size":"100,100"}
+This table has two people sitting at it, Isabel and Nathan.
+Nathan is a young boy wearing a soccer jersey and a braided leather bracelet.
+Isabel is a middle aged woman wearing a v-neck t-shirt.
+
+I talk to [[Isabel]].
+I talk to [[Nathan]].
+
+
+I walk to the [[north|h table8]].
+I walk to the [[west|h table4]].
+I walk to the [[south|h table6]].
+
+
+:: h table8 {"position":"8467.666666666668,1910.3333333333335","size":"100,100"}
+This table has one person sitting at it, Jeremy.
+Jeremy is a middle aged man wearing a green jacket zipped up to his collar bone.
+
+I talk to [[Jeremy]].
+
+
+I walk to the [[west|h table3]].
+I walk to the [[south|h table7]].
+
+
+:: hammer {"position":"215.33333333333334,3812.333333333334","size":"100,100"}
+
+
+(set: $inv to $inv + (a: "s hammer")) 
+
+(link-goto: "look at other tools", (history:)'s last)
+
+
+:: hate {"position":"3200.0000000000005,525.8333333333334","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: history [donotshowinventory] {"position":"1420.0000000000002,19.166666666666657","size":"100,100"}
+"The history of this library isn't as long as others," the Librarian states, "but it is far from boring."
+
+"Enigma Reiter designed this library in 2010, but it wasn't fully constructed until 2013. It was inspired by her love of reading  and how libraries bring a special feeling of stepping out of reality."
+
+"There were many things that came to mind when thinking of libraries, that she wanted to share with others."
+
+"She believed they held a magical quality.
+She believed they could take readers back in time.
+She believed they could allow people to be whoever they want, or hold the most diverse emotions.
+She believed they give off a certain intrique, as no one gets what they fully expect.
+And Ms. Enigma Reiter believed people left feeling almost alien in the world they came from."
+
+"And since then," the Librarian finishes, "the library has done just that."
+
+I ask who [[Enigma Reiter]] is.
+
+"Did you have another [[question|Librarian]]?"
+
+
+:: i1w1 {"position":"664.9999999999999,135.83333333333334","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i1w2 {"position":"666.6666666666665,242.5","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i1w3 {"position":"669.9999999999999,345.8333333333333","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i1w4 {"position":"666.6666666666667,449.1666666666667","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i2w1 {"position":"560.0000000000001,133.3333333333333","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i2w2 {"position":"560.0000000000001,236.66666666666663","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i2w3 {"position":"560.0000000000001,341.66666666666663","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i2w4 {"position":"556.6666666666667,449.9999999999999","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i3w1 {"position":"455.00000000000006,131.66666666666663","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i3w2 {"position":"453.33333333333337,236.66666666666666","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i3w3 {"position":"455,341.66666666666663","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i3w4 {"position":"454.9999999999999,449.16666666666674","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i4w1 {"position":"348.3333333333333,128.33333333333331","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i4w2 {"position":"346.66666666666663,236.66666666666666","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i4w3 {"position":"348.3333333333333,341.66666666666663","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i4w4 {"position":"344.9999999999999,446.66666666666663","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i5w1 {"position":"243.33333333333334,129.99999999999991","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i5w2 {"position":"238.33333333333331,236.66666666666657","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i5w3 {"position":"239.99999999999994,343.33333333333326","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: i5w4 {"position":"236.66666666666657,448.33333333333326","size":"100,100"}
+A maid comes into the room, yelling at me about the mess.
+
+She takes all the items in my possession, except my Library Card, and puts them back in the lost and found.
+
+I am left alone in the [[Restroom]].
+
+
+:: inventory {"position":"3096.6666666666674,105.83333333333326","size":"100,100"}
+<h2>Inventory</h2>
+
+(link-goto: "Exit Inventory", (history:)'s last) 
+
+(if: $inv's length > 0)[My inventory contains: (print: $inv.join(", ")).]
+(else:)[I have nothing in my pockets.]
+(click: "five dollars")[(display: "five dollars")]
+(click: "library card")[(display: "library card")]
+(click: "Fantasy Book")[(display: "Fantasy Book")]
+(click: "Key for Chests")[(display: "Key for Chests")]
+(click: "red scroll")[(display: "red scroll")]
+(click: "blue scroll")[(display: "blue scroll")]
+(click: "brown scroll")[(display: "brown scroll")]
+(click: "green scroll")[(display: "green scroll")]
+(click: "black scroll")[(display: "black scroll")]
+(click: "yellow scroll")[(display: "yellow scroll")]
+(click: "pink scroll")[(display: "pink scroll")]
+(click: "orange scroll")[(display: "orange scroll")]
+(click: "gray scroll")[(display: "gray scroll")]
+(click: "purple scroll")[(display: "purple scroll")]
+(click: "Historical Book")[(display: "Historical Book")]
+(click: "Western Book")[(display: "Western Book")]
+(click: "gold coins")[(display: "gold coins")]
+(click: "Romance Book")[(display: "Romance Book")]
+(click: "Menu")[(display: "menu")]
+(click: "Food")[(display: "food")]
+(click: "Music Selection")[(display: "music choices")]
+(click: "music")[(display: "Music")]
+(click: "morning glories")[(display: "morning glories")]
+(click: "daffodils")[(display: "daffodils")]
+(click: "peonies")[(display: "peonies")]
+(click: "good gift")[(display: "good gift")]
+(click: "awesome gift")[(display: "awesome gift")]
+(click: "Admiration")[(display: "love")]
+(click: "They're the one!")[(display: "Love")]
+(click: "Dislike")[(display: "hate")]
+(click: "Not going to work out.")[(display: "Hate")]
+(click: "Mystery Book")[(display: "Mystery Book")]
+(click: "Witness List")[(display: "Witness List")]
+(click: "Suspect List")[(display: "Suspect List")]
+(click: "Science Fiction Book")[(display: "Science Fiction Book")]
+(click: "List of Junk")[(display: "junk list")]
+(click: "Hammer")[(display: "s hammer")]
+(click: "Screwdriver")[(display: "s screwdriver")]
+(click: "Crowbar")[(display: "s crowbar")]
+(click: "Saw")[(display: "s saw")]
+(click: "Welder's Torch")[(display: "s welder torch")]
+(click: "Carjack")[(display: "carjack")]
+
+
+:: junk list {"position":"3851.6666666666656,327.5","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: library card {"position":"3216.6666666666665,101.66666666666673","size":"100,100"}
+-A flimsy piece of plastic that acts like a key to a treasure trove of adventure. ...Don't lose it.
+
+
+:: lights {"position":"1088.3333333333333,345.83333333333337","size":"100,100"}
+I stare up at the lights until I start to see spots.
+
+It looks like there are little bugs filling all the spaces behind the plastic.
+
+[["...That can't be right."|Restroom]]
+
+
+:: little girl {"position":"1745.6666666666665,317.50000000000006","size":"100,100"}
+The little girl sees me coming. She’s sitting at a table pulled away from the table. Her legs swing in front of her.
+
+Before I can get a word out, she says, “Mommy says I’m not supposed to talk to strangers.”
+
+
+I ask her about her favorite [[section|Tantrum]].
+I ask her what she's doing in the library [[alone|Tantrum]].
+I offer her [[candy]].
+I leave her [[alone|Chance for tips]].
+
+
+:: love {"position":"3303.3333333333335,422.50000000000006","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: menu {"position":"3098.333333333334,319.1666666666667","size":"100,100"}
+
+-Steak and Fries: 
+
+-Waffle and Ice-cream: 
+
+-Lasagna and Peas: 
+
+
+:: mirror {"position":"1091.6666666666667,244.16666666666669","size":"100,100"}
+I walk over to the mirror.
+
+It's a normal looking, very plain mirror that stretches across most of the wall.
+
+But, when I turn my head a certain way, the mirror changes. It is still reflective, but it seems that beyond the glass, there are stars and galaxies swirling.
+
+[["I don't think this is just a mirror..."|Restroom]]
+
+
+:: morning glories {"position":"3405,217.5000000000001","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: music {"position":"3200,423.3333333333333","size":"100,100"}
+I see you and your date have similar tastes.
+...That, or you know how to keep a person happy, despite the grating in your ears.
+
+
+:: music choices {"position":"3201.6666666666674,319.99999999999994","size":"100,100"}
+-Country: Soft guitars and songs about pie.
+
+-Classical: Who can focus on conversation with lyrics?
+
+-Pop: Can't stay seated with these songs.
+
+-Rock: Rockin' and Rollin' to the beat.
+
+
+:: old man {"position":"1745.0000000000002,9.166666666666657","size":"100,100"}
+The old man sitting in an armchair near an unlit fireplace snores as I step closer. I nudge his shoulder gently.
+
+He doesn’t respond, only gripping his newspaper tighter.
+
+“Sir?” I ask, nudging him more.
+
+“What?” he snaps.
+
+
+I ask him about his favorite [[section|Mystery Tip]].
+I leave him [[alone|Chance for tips]].
+
+
+:: orange {"position":"4353.666666666666,3809","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has an orange ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "orange scroll"))
+
+
+:: orange scroll {"position":"3745,102.50000000000006","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: peonies {"position":"3406.666666666667,320.83333333333337","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: pink {"position":"4817.333333333335,3310.666666666668","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has a pink ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "pink scroll"))
+
+
+:: pink scroll {"position":"3746.6666666666665,0","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: purple {"position":"4359.666666666666,4206","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has a purple ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "purple scroll"))
+
+
+:: purple scroll {"position":"3848.3333333333335,104.16666666666674","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: ready {"position":"1061.3333333333335,4478.333333333333","size":"100,100"}
+
+
+
+I walk back to the [[entrance|Sci-Fi Section]] of the Fantasy Section.
+(set: $inv to $inv + (a: "Science Fiction Book")) 
+
+
+:: red {"position":"4783.666666666667,3750.333333333334","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has a red ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "red scroll"))
+
+
+:: red box {"position":"4163,3050.333333333334","size":"100,100"}
+I open the box. Inside is...
+
+A clutch of jewel coated eggs. Most of their shells are a dark color and rough in texture.
+
+
+[[Reveal Ending|DRAGON KEEPER STUCK ENDING]]
+
+
+:: red scroll {"position":"3336.6666666666674,0","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: s carjack {"position":"4160.000000000001,325.8333333333334","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: s crowbar {"position":"3955.0000000000005,327.50000000000006","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: s hammer {"position":"4160,224.16666666666674","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: s open {"position":"683.0000000000002,4166.666666666668","size":"100,100"}
+
+
+
+[[tools|s table1]]
+pile of [[junk|s pile1]]
+[[spaceship]]
+
+
+:: s pile1 {"position":"972.0000000000002,3741","size":"100,100"}
+
+
+
+[[tools|s table1]]
+a pile of [[junk|s pile2]]
+[[spaceship]]
+
+
+:: s pile2 {"position":"939.3333333333335,3411","size":"100,100"}
+
+
+
+[[tools|s table2]]
+a pile of [[junk|s pile1]]
+
+
+:: s pile3 {"position":"1408.6666666666667,3766","size":"100,100"}
+
+
+
+a pile of [[junk|s pile4]]
+[[spaceship]]
+
+
+:: s pile4 {"position":"1405.3333333333335,3382.666666666667","size":"100,100"}
+
+
+
+I talk to [[a strange blue alien]].
+
+I sort through a pile of [[junk|s pile3]].
+
+
+:: s saw {"position":"4058.3333333333335,225.8333333333334","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: s screwdriver {"position":"3955.0000000000005,224.16666666666674","size":"100,100"}
+
+
+
+:: s table1 {"position":"582.3333333333335,3747.333333333334","size":"100,100"}
+
+
+Examine [[tools|tool table1]]
+
+[[tools|s table2]]
+pile of [[junk|s pile1]]
+
+
+
+
+:: s table2 {"position":"637.3333333333335,3361","size":"100,100"}
+
+
+I talk to [[a strange pink alien]].
+Examine [[tools|tool table2]]
+(Pick up tool option)
+
+[[tools|s pile2]]
+[[tools|s table1]]
+
+
+:: s welder torch {"position":"4058.3333333333335,327.50000000000006","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: saw {"position":"457.3333333333334,3216.000000000001","size":"100,100"}
+
+
+(set: $inv to $inv + (a: "s saw")) 
+
+(link-goto: "look at other tools", (history:)'s last)
+
+
+:: screwdriver {"position":"384.0000000000001,3885.666666666667","size":"100,100"}
+
+
+(set: $inv to $inv + (a: "s screwdriver")) 
+
+(link-goto: "look at other tools", (history:)'s last)
+
+
+:: seated {"position":"8280.333333333334,3886.333333333334","size":"100,100"}
+(if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[Reveal Ending|WORK ENDING]]]
+(else-if: $inv contains "Not going to work out.")[My date sighs, "This is obviously not working out. We should just call it a night."
+As we start to leave, the maitre'd comes over, "Are you paying the bill?"
+I reach into my pockets, and find they are empty. I look for my date, but only find an space next to me.
+[[|Reveal Ending|WORK ENDING]]]
+(else:)[I sit across from my date.
+
+(if: $inv contains "Food")[<do nothing>]
+(else-if: $inv contains "Food")[<do nothing>]
+(else:)[The waiter comes over to take our order. "What would you like to eat?" she asks.
+[[Steak and Fries]]
+[[Waffle and Ice-cream]]
+[[Lasagna and Peas]]]
+
+(if: $inv contains "music")[The food's on the table and music is playing. My date looks at me, expecting me to [[talk|Date]].]
+(else-if: $inv contains "music")[The food's on the table and music is playing. My date looks at me, expecting me to [[talk|Date]].]
+(else:)[A musician that was setting up in the corner walks to our table. "What would you like to listen to?" he asks.
+[[Pop]]
+[[Classical]]
+[[Country]]
+[[Rock]]]]
+
+
+:: sections {"position":"1538.9999999999998,239.16666666666669","size":"100,100"}
+"There are six sections to the library," the [[Librarian]] says, "Ms. Reiter prided herself on fictional genres, so there are no non-fiction books within these walls."
+
+"And so," she says, "those six sections are as such. There is Fantasy, Historical Fiction, Western, Romance, Mystery, and Science Fiction."
+
+I ask about [[Fantasy]].
+I ask about [[Historical Fiction]].
+I ask about [[Western]].
+I ask about [[Romance]].
+I ask about [[Mystery]].
+I ask about [[Science Fiction]].
+I ask what section is her [[favorite]].
+
+
+:: sinks {"position":"1095,137.50000000000003","size":"100,100"}
+I notice right away that all the sinks are lined with loose sand.
+
+After checking the faucets, not all of them work. Those that do work has something else come out instead of water.
+
+One has flower petals. They settle on the sand, then seem to melt into the sand and disappear.
+The other has honey. It slips slowly through the sand, taking some with it, leaving tracks on the way to the drain at the bottom.
+
+[["I guess they don't want their patrons to be clean?"|Restroom]]
+
+
+:: spaceship {"position":"1183.0000000000002,4306.666666666666","size":"100,100"}
+
+
+[[Fix]].
+Talk to [[Lead Alien]]
+
+a pile of [[junk|s pile1]]
+a pile of [[junk|s pile3]]
+
+
+:: stalls {"position":"991.6666666666667,137.50000000000003","size":"100,100"}
+I push open each stall, as they are all empty.
+And none are normal.
+
+One is mostly covered in moss.
+Another has a few snakes chilling in the water.
+The next could have been ordinary, if not for the colorful smoke coming out of the back of the toilet. Upon closer inspection, the bowl is completely dry, the same smoke filling it.
+There is a toilet that looks to be made of solid gold.
+And the final toilet has a puddle of blood on the floor in front of it.
+
+[["I'll just hold it in."|Restroom]]
+
+
+:: sunglasses {"position":"1286.666666666667,2155.833333333333","size":"100,100"}
+A pair of sunglasses, too big to be Kate's, are in a evidence bag. They are broken in the middle, with glass missing from one of the eyeholes.
+
+Signs of a struggle.
+
+
+(link-goto: "Interesting...", (history:)'s last)
+
+
+:: time to ask {"position":"5117.666666666667,2078.3333333333335","size":"100,100"}
+The person you ask gives you the right amount of coins for one drink.
+They even accompany you to the [[bar|w Bar]].
+
+
+:: tool table1 {"position":"384.0000000000001,3735.666666666667","size":"100,100"}
+
+
+I pick up the [[screwdriver]].
+I pick up the [[hammer]].
+I pick up the [[crowbar]].
+
+
+:: tool table2 {"position":"465.6666666666668,3367.666666666667","size":"100,100"}
+
+
+
+I pick up the [[saw]].
+I pick up the [[welder's torch]].
+I pick up the [[carjack]].
+
+
+:: w Bar {"position":"3696.0000000000005,1783.3333333333335","size":"100,100"}
+The bar counter has one person sitting at it, Sam.
+The Bartender works behind it, cleaning a glass.
+
+I talk to [[Sam]].
+I talk to the [[Bartender]].
+
+
+I walk to the [[north|w table7]].
+I walk to the [[west|w table6]].
+
+
+:: w table1 {"position":"3522.3333333333335,1006.6666666666667","size":"100,100"}
+This table is empty of patrons.
+
+
+I walk to the [[north|w table2]].
+I walk to the [[east|w table6]].
+
+
+:: w table2 {"position":"4272.666666666667,696.3333333333335","size":"100,100"}
+This table has two people sitting at it, Lauren and Alice.
+
+I talk to [[Lauren]].
+I talk to [[Alice]].
+
+
+I walk to the [[south|w table1]].
+I walk to the [[north|w table3]].
+I walk to the [[east|w table5]].
+
+
+:: w table3 {"position":"4786,691.3333333333335","size":"100,100"}
+This table is empty of patrons.
+
+
+I walk to the [[south|w table2]].
+I walk to the [[east|w table4]].
+
+
+:: w table4 {"position":"4748,1340.6666666666667","size":"100,100"}
+This table has one person sitting at it, Dan.
+
+I talk to [[Dan]].
+
+
+I walk to the [[west|w table3]].
+I walk to the [[east|w table8]].
+I walk to the [[south|w table5]].
+
+
+:: w table5 {"position":"4223,1339","size":"100,100"}
+This table has two people sitting at it, Scott and Katrina.
+
+I talk to [[Scott]].
+I talk to [[Katrina]].
+
+
+I walk to the [[north|w table4]].
+I walk to the [[west|w table2]].
+I walk to the [[south|w table6]].
+I walk to the [[east|w table7]].
+
+
+:: w table6 {"position":"3683.0000000000005,1352.3333333333335","size":"100,100"}
+This table has one person sitting at it, Rory.
+
+I talk to [[Rory]].
+
+
+I walk to the [[west|w table1]].
+I walk to the [[north|w table5]].
+I walk to the [[bar|w Bar]].
+
+
+:: w table7 {"position":"4264.333333333334,1963.0000000000002","size":"100,100"}
+This table is empty of patrons.
+
+
+I walk to the [[north|w table8]].
+I walk to the [[west|w table5]].
+I walk to the [[bar|w Bar]].
+
+
+:: w table8 {"position":"4769.333333333334,1801.666666666667","size":"100,100"}
+This table has two people sitting at it, Micheal and Holly.
+
+I talk to [[Micheal]].
+I talk to [[Holly]].
+
+
+I walk to the [[west|w table4]].
+I walk to the [[south|w table7]].
+
+
+:: welder's torch {"position":"320.66666666666674,3472.666666666667","size":"100,100"}
+
+
+(set: $inv to $inv + (a: "s welder torch")) 
+
+(link-goto: "look at other tools", (history:)'s last)
+
+
+:: woman {"position":"1743.9999999999995,214.16666666666669","size":"100,100"}
+I walk over to a middle age woman flipping through a stack of books. “None of these books are educational,” she grumbles.
+
+“Um, hi,” I say.
+
+She looks up, “Are you a librarian?”
+
+“…No,” I answer.
+
+“Hm.” She goes back to her stack of books.
+
+
+I ask her about her favorite [[section|Historical Tip]].
+I leave her [[alone|Chance for tips]].
+
+
+:: yellow {"position":"4711.333333333333,4348.666666666666","size":"100,100"}
+I pull the scroll out of the bookshelf, seeing it has a yellow ribbon.
+
+(link-goto: "Keep it.", (history:)'s last)
+
+(set: $inv to $inv + (a: "yellow scroll"))
+
+
+:: yellow scroll {"position":"3643.3333333333335,0.8333333333333712","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: young man {"position":"1743.3333333333335,112.50000000000001","size":"100,100"}
+I walk over to the young man sitting at a table, pouring over a book open in front of him.
+
+“Hello,” I greet. He doesn’t answer right away, so I repeat my greeting.
+
+He looks up, then smiles as he sees me, “Hello.”
+
+
+I ask him about his favorite [[section|Sci Fi Tip]].
+I ask him what he's [[reading|Romance Tip]].
+I leave him [[alone|Chance for tips]].
